@@ -70,10 +70,6 @@ I specialize in crafting solutions that bridge **Generative AI**, **Autonomous S
   <a href="https://github.com/Sudharsanselvaraj"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-### ⚡ Fun Fact  
-> I once built a satellite model that predicted orbital trajectories more accurately than standard NORAD baselines 🚀🌍  
 
 ---
 
