@@ -1,23 +1,21 @@
-
-
 <h1 align="center">Hi there, I'm Sudharsan S! 👋</h1>
 
 <p align="center">
 🚀 <b>Machine Learning Engineer | Quantum Computing Researcher | Generative AI Innovator</b>  
 <br>
-🎓 B.Tech (CSE) | SRM University, Trichy — <b>CGPA: 9.65</b>  
+🎓 B.Tech (CSE) | SRM University, Trichy — <b>CGPA: 9.35</b>  
 💡 Building <b>AI-powered, Quantum-driven systems</b> that combine Machine Learning, Generative AI, and Quantum Computation to create real-world impact.
 </p>
 
 ---
 
-### 🌍 About Me  
+### About Me  
 I’m a **Machine Learning Engineer** and **Quantum Researcher** focused on designing intelligent, scalable systems that merge **LLMs**, **RAG Pipelines**, **GANs**, and **Quantum Algorithms**.  
 I specialize in crafting solutions that bridge **Generative AI**, **Autonomous Systems**, and **Quantum Computation**, empowering AI to think beyond classical limits.
 
 ---
 
-### 🧠 Skills & Technologies  
+### Skills & Technologies  
 
 #### 💻 Programming & Core Languages  
 <p align="center">
@@ -53,7 +51,7 @@ I specialize in crafting solutions that bridge **Generative AI**, **Autonomous S
 
 ---
 
-### 📊 Stats & Analytics  
+### Stats & Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=react&hide_border=true" height="160" />
@@ -62,7 +60,7 @@ I specialize in crafting solutions that bridge **Generative AI**, **Autonomous S
 
 ---
 
-### 🤝 Let's Connect  
+### Let's Connect  
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
