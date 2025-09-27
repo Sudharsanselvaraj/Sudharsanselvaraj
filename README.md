@@ -1,7 +1,4 @@
-<!-- 🖼️ Top Banner -->
-<p align="center">
-  <img src="images/1720017389367.jpeg" alt="Machine Learning Engineer Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Sudharsan S! 👋</h1>
 
