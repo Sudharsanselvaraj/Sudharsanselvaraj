@@ -1,18 +1,22 @@
+<!-- 🖼️ Top Banner -->
+<p align="center">
+  <img src="images/1720017389367.jpeg" alt="Machine Learning Engineer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Sudharsan S! 👋</h1>
 
 <p align="center">
 🚀 <b>Machine Learning Engineer | Quantum Computing Researcher | Generative AI Innovator</b>  
 <br>
 🎓 B.Tech (CSE) | SRM University, Trichy — <b>CGPA: 9.65</b>  
-💡 Passionate about building <b>AI-powered, Quantum-driven systems</b> that merge Machine Learning, Generative AI, and Computation to solve global challenges.
+💡 Building <b>AI-powered, Quantum-driven systems</b> that combine Machine Learning, Generative AI, and Quantum Computation to create real-world impact.
 </p>
 
 ---
 
 ### 🌍 About Me  
-I’m a **Machine Learning Engineer** and **Quantum Researcher** with a passion for creating intelligent systems that bridge **AI, Generative Models, and Quantum Algorithms**.  
-My work focuses on **LLMs, RAG Pipelines, and GAN architectures**, alongside **quantum algorithms** that push computational boundaries.  
-From **satellite forecasting** to **autonomous robotics** and **AI-IoT fusion**, I transform research into real-world innovation.
+I’m a **Machine Learning Engineer** and **Quantum Researcher** focused on designing intelligent, scalable systems that merge **LLMs**, **RAG Pipelines**, **GANs**, and **Quantum Algorithms**.  
+I specialize in crafting solutions that bridge **Generative AI**, **Autonomous Systems**, and **Quantum Computation**, empowering AI to think beyond classical limits.
 
 ---
 
@@ -49,40 +53,6 @@ From **satellite forecasting** to **autonomous robotics** and **AI-IoT fusion**,
   <img src="https://img.shields.io/badge/Generative%20AI-1E90FF.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quantum%20Computing-6929C4.svg?&style=for-the-badge&logo=qiskit&logoColor=white"/>
 </p>
-
----
-
-### 💼 Experience  
-
-🔹 **Quantum Computation Research Intern — NIT Trichy (Jun 2025 – Jul 2025)**  
-> Developed **Grover’s**, **Shor’s**, and **Caesar Cipher algorithms** using **Qiskit**, showcasing real-world cryptography and quantum search.
-
-🔹 **ML-Powered Robotics Developer — Persist Ventures, USA (Jan 2025 – Mar 2025)**  
-> Engineered an **autonomous waiter robot** with **YOLOv5** and **TensorFlow**, performing real-time navigation and obstacle detection.
-
-🔹 **Machine Data Analyst — Indika AI (Jul 2024 – Sep 2024)**  
-> Designed and fine-tuned **speech-to-text NLP models**, achieving significant accuracy improvements across global datasets.
-
----
-
-### 🏆 Honors & Awards  
-
-🏅 **Winner – Protothon 1.0**, SRM Trichy (Aug 2025)  
-🥈 **Top 5 Finalist – U&Me Hackathon**, Edu Tantr, Bangalore (Aug 2025)  
-🥉 **Runner-Up – ICETETM’25**, Takshshila University (Mar 2025)
-
----
-
-### 🚀 Featured Projects  
-
-🌌 **[OrbitXOS](https://github.com/Sudharsanselvaraj/OrbitXOS.git)**  
-> Built a real-time **orbital dynamics system** using **SGP4 + TLE data** for satellite and debris tracking.
-
-💧 **[WQ Vision](https://github.com/Sudharsanselvaraj/wqvision-testing-kit.git)**  
-> Designed an **AI-IoT testing kit** with **ESP32-CAM** & **FastAPI** to detect water contaminants — 🏆 Winner @ Protothon 1.0.
-
-🌿 **[GHG-FuseNet](https://github.com/Sudharsanselvaraj/GHG-API.git)**  
-> Developed a **multi-source fusion model** combining **NASA FIRMS + Open-Meteo APIs**, achieving **R² = 0.94** for CO/NO prediction.
 
 ---
 
