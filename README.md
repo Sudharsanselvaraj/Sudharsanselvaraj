@@ -48,11 +48,11 @@ I’ve worked across **hardware-focused national hackathons**, **research intern
 | Event | Track | Achievement | Prize / Recognition |
 |------|------|-------------|---------------------|
 | **Smart India Hackathon 2025 (Hardware Edition)** | Ministry of Education – Hardware | 🥇 **Winner** | ₹1,50,000 |
-| **ProtoThon 1.0 – SRM IST** | Embedded AI / Innovation | 🥇 **Winner** | Winner Certificate |
-| **Algo Vault – Robothinkers Club** | Algorithms & Optimization | 🥇 **1st Place** | Winner Certificate |
-| U & ME State-Level Hackathon 2025 | Open Innovation | Participant | Certificate |
-| HackXtreme’25 (24-Hour Hackathon) | Software & Systems | Participant | Certificate |
-| Hybrid Hack – Aarush’25 | Sustainable / Hybrid Tech | Participant | Certificate |
+| **ProtoThon 1.0 – SRM IST** | Embedded AI / Innovation | 🥇 **Winner** | ₹5000 |
+| **Algo Vault – Robothinkers Club** | Algorithms & Optimization | 🥇 **1st Place** | ₹5000 |
+| U & ME State-Level Hackathon 2025 | Open Innovation | Participant | Runner Up |
+| HackXtreme’25 (24-Hour Hackathon) | Software & Systems | Participant | Runner Up |
+| Hybrid Hack – Aarush’25 | Sustainable / Hybrid Tech | Participant | Runner Up |
 
 📌 *Experience across national, state, and institutional hackathons with hands-on exposure to hardware prototyping, embedded AI, ML systems, and rapid problem-solving.*
 
