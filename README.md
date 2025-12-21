@@ -85,16 +85,6 @@ My work spans <b>GNSS-denied navigation</b>, <b>embedded & edge AI</b>,
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|------|-------------|
-| 🛰️ **DhruvXPNT** | GNSS-Independent LEO-Based Navigation & Timing |
-| 🌍 **OrbitXOS** | Orbital Dynamics–Based Space Debris Monitoring |
-| 💧 **WQ Vision** | Embedded AI Water Quality Monitoring |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
