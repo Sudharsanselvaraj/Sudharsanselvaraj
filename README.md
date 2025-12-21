@@ -1,44 +1,30 @@
-<!-- ===================== WAVE HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I’m%20Sudharsan%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Systems%20Engineer%20|%20Quantum%20Computing%20Researcher&descAlignY=55&descSize=18"/>
+<!-- ===================== SAFE WAVE HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43&height=200&section=header&text=Sudharsan%20S&fontSize=42&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=GNSS-Denied+Navigation+%7C+Embedded+AI;Autonomous+Perception+Systems;Mission-Critical+Intelligent+Systems" />
+<b>AI & Systems Engineer | Quantum Computing Researcher</b><br>
+GNSS-Denied Navigation • Embedded AI • Autonomous Systems
 </p>
 
 ---
 
-## 🧑‍💻 Profile
+## 👋 About Me
 
-<table>
-<tr>
-<td width="35%" align="center">
+<p align="center">
+🎓 <b>B.Tech (CSE) + Honors in Quantum Computation</b><br>
+SRM Institute of Science and Technology, Trichy<br>
+<b>CGPA:</b> 9.35
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/0?v=4" width="180" style="border-radius:50%"/>
+<p align="center">
+I build <b>real-world, hardware-aware intelligent systems</b> spanning<br>
+<b>GNSS-denied navigation, embedded & edge AI, autonomous perception</b>,<br>
+and <b>quantum algorithms</b>.
+</p>
 
-<br><br>
-
-🎓 **B.Tech (CSE)**  
-Honors in **Quantum Computation**  
-SRM Institute of Science and Technology, Trichy  
-<br>
-📊 **CGPA: 9.35**
-
-<br><br>
-
-🏆 **Smart India Hackathon 2025**  
-**National Winner**
-
-</td>
-
-<td width="65%">
-
-I’m an **AI & Systems Engineer** focused on building **real-world, hardware-aware intelligent systems**.
-
-My work spans **GNSS-denied navigation**, **embedded & edge AI**, **autonomous perception**, **RF-aware signal processing**, and **quantum algorithms**, with hands-on experience delivering **deployable prototypes** through national hackathons and research internships.
-
-</td>
-</tr>
-</table>
+<p align="center">
+🏆 <b>Smart India Hackathon 2025 — National Winner</b>
+</p>
 
 ---
 
@@ -58,27 +44,25 @@ My work spans **GNSS-denied navigation**, **embedded & edge AI**, **autonomous p
 
 ---
 
-## 📊 GitHub Contributions Summary
+## 📊 GitHub Activity Snapshot
 
 <table align="center">
 <tr>
 <td align="center">
 
-**Total Contributions**  
+<b>Total Contributions</b><br>
 <img src="https://img.shields.io/badge/609-blue?style=for-the-badge"/>
 
 </td>
-
 <td align="center">
 
-**Current Streak**  
+<b>Current Streak</b><br>
 <img src="https://img.shields.io/badge/1_day-orange?style=for-the-badge"/>
 
 </td>
-
 <td align="center">
 
-**Longest Streak**  
+<b>Longest Streak</b><br>
 <img src="https://img.shields.io/badge/6_days-green?style=for-the-badge"/>
 
 </td>
@@ -146,8 +130,8 @@ My work spans **GNSS-denied navigation**, **embedded & edge AI**, **autonomous p
 ---
 
 <p align="center">
-<i>“Engineering systems that remain reliable when assumptions fail.”</i>
+<i>“Engineering systems that remain reliable when signals disappear.”</i>
 </p>
 
-<!-- ===================== WAVE FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<!-- ===================== SAFE WAVE FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43,0f2027&height=120&section=footer"/>
