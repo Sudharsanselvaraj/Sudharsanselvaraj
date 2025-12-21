@@ -112,14 +112,14 @@
 
 ## 🏆 Achievements & Honors
 
-| Event | Level | Result | Year |
-|------|------|------|------|
-| Smart India Hackathon (SIH) | National | 🥇 Winner | 2025 |
-| ProtoThon 1.0 – SRM IST | Institutional | 🥇 Winner | 2025 |
-| AlgoVault Hackathon | Institutional | 🥇 Winner | 2025 |
-| U & ME State-Level Hackathon | State | Runner Up | 2025 |
-| HackXtreme’25 | Institutional | Runner Up | 2025 |
-| Hybrid Hack – Aarush’25 | National | Runner Up | 2025 |
+| Event | Level | Result | Prize / Recognition |
+|------|------|--------|---------------------|
+| **Smart India Hackathon (SIH)** | National | 🥇 Winner | ₹1,50,000 |
+| **ProtoThon 1.0 – SRM IST** | Institutional | 🥇 Winner | ₹5,000 |
+| **AlgoVault Hackathon** | Institutional | 🥇 Winner | ₹5,000 |
+| **U & ME State-Level Hackathon** | State | Runner Up | Recognition |
+| **HackXtreme’25 (24-Hour Hackathon)** | Institutional | Runner Up | Recognition |
+| **Hybrid Hack – Aarush’25** | National | Runner Up | Recognition |
 
 ---
 
