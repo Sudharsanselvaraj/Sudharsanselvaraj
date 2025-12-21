@@ -1,88 +1,70 @@
-<!-- ===================== SAFE WAVE HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43&height=200&section=header&text=Sudharsan%20S&fontSize=42&fontColor=ffffff"/>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=232526,414345&height=180&section=header&text=Sudharsan%20S&fontSize=48&fontColor=ffffff"/>
+
+<h2 align="center">
+AI & Systems Engineer &nbsp;|&nbsp; Quantum Computing Researcher
+</h2>
 
 <p align="center">
-<b>AI & Systems Engineer | Quantum Computing Researcher</b><br>
-GNSS-Denied Navigation • Embedded AI • Autonomous Systems
+<b>GNSS-Denied Navigation · Embedded AI · Autonomous Systems</b>
 </p>
 
 ---
 
 ## 👋 About Me
 
-<p align="center">
+<p>
 🎓 <b>B.Tech (CSE) + Honors in Quantum Computation</b><br>
 SRM Institute of Science and Technology, Trichy<br>
 <b>CGPA:</b> 9.35
 </p>
 
-<p align="center">
-I build <b>real-world, hardware-aware intelligent systems</b> spanning<br>
-<b>GNSS-denied navigation, embedded & edge AI, autonomous perception</b>,<br>
-and <b>quantum algorithms</b>.
+<p>
+I focus on building <b>real-world, hardware-aware intelligent systems</b>.
+My work spans <b>GNSS-denied navigation</b>, <b>embedded & edge AI</b>,
+<b>autonomous perception</b>, and <b>quantum algorithms</b>.
 </p>
 
-<p align="center">
+<p>
 🏆 <b>Smart India Hackathon 2025 — National Winner</b>
 </p>
 
 ---
 
-## ⚙️ When I Code, I Rely On
+## ⚙️ Technical Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-1F1F1F?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity Snapshot
-
-<table align="center">
-<tr>
-<td align="center">
-
-<b>Total Contributions</b><br>
-<img src="https://img.shields.io/badge/609-blue?style=for-the-badge"/>
-
-</td>
-<td align="center">
-
-<b>Current Streak</b><br>
-<img src="https://img.shields.io/badge/1_day-orange?style=for-the-badge"/>
-
-</td>
-<td align="center">
-
-<b>Longest Streak</b><br>
-<img src="https://img.shields.io/badge/6_days-green?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <table align="center">
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&hide_border=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
 
 </td>
 </tr>
@@ -117,21 +99,17 @@ and <b>quantum algorithms</b>.
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Sudharsanselvaraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-<i>“Engineering systems that remain reliable when signals disappear.”</i>
-</p>
-
-<!-- ===================== SAFE WAVE FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43,0f2027&height=120&section=footer"/>
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=414345,232526&height=110&section=footer"/>
