@@ -47,7 +47,7 @@ I’ve worked across **hardware-focused national hackathons**, **research intern
 
 | Event | Track | Achievement | Prize / Recognition |
 |------|------|-------------|---------------------|
-| **Smart India Hackathon 2025 ** | Ministry of Education – Hardware | 🥇 **Winner** | ₹1,50,000 |
+| **Smart India Hackathon 2025** | Ministry of Education – Hardware | 🥇 **Winner** | ₹1,50,000 |
 | **ProtoThon 1.0 – SRM IST** | Embedded AI / Innovation | 🥇 **1st Place** | ₹5000 |
 | **Algo Vault – Robothinkers Club** | Algorithms & Optimization | 🥇 **1st Place** | ₹5000 |
 | U & ME State-Level Hackathon 2025 | Open Innovation | Participant | Runner Up |
