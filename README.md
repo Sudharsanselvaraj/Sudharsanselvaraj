@@ -31,47 +31,48 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Programming & Core Systems -->
+<!-- ================= CORE PROGRAMMING ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
 </p>
 
-<!-- AI / ML / Computer Vision -->
+<!-- ================= SYSTEMS & OS ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git&theme=dark" />
+</p>
+
+<!-- ================= AI / ML / CV ================= -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-<!-- Backend / APIs (if used later, safe to include) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" />
-</p>
-
-<!-- Robotics / Embedded / Systems -->
+<!-- ================= ROBOTICS & EMBEDDED ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<!-- Quantum Computing -->
+<!-- ================= QUANTUM ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-<!-- Computer Vision / Detection -->
+<!-- ================= CV / DETECTION ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 </p>
 
-<!-- Space / Navigation / Modeling -->
+<!-- ================= SPACE / NAVIGATION ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/SGP4-Orbital%20Dynamics-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TLE-Satellite%20Data-0A0A0A?style=for-the-badge"/>
 </p>
 
-<!-- Platforms -->
+<!-- ================= PLATFORM ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
 
 ---
 
