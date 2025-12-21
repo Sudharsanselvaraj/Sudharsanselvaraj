@@ -1,19 +1,31 @@
-<!-- Wave Header -->
+<!-- ===================== WAVE HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;Embedded+AI+%7C+GNSS-Denied+Navigation;Building+Mission-Critical+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;Embedded+AI+%7C+GNSS-Denied+Navigation;Mission-Critical+Intelligent+Systems" />
 </p>
 
 ---
 
-## ⚡ About Me (Quick)
-🎓 **B.Tech CSE + Honors in Quantum Computation**  
+## ⚡ About Me
+🎓 **B.Tech (CSE) + Honors in Quantum Computation**  
 🏫 SRM Institute of Science and Technology, Trichy  
-📊 **CGPA: 9.35**  
+📊 **CGPA: 9.35**
 
-🛰️ Focused on **GNSS-denied navigation**, **embedded intelligence**, **autonomous systems**, and **quantum algorithms**  
-🏆 **SIH 2025 National Winner**
+🛰️ I work at the intersection of **AI, embedded systems, RF-aware intelligence, and quantum computing**, with a strong focus on **GNSS-denied navigation**, **autonomous systems**, and **mission-critical AI**.
+
+🏆 **Smart India Hackathon 2025 — National Winner**
+
+---
+
+## 🧠 Core Focus Areas
+- GNSS-Denied Navigation & PNT Systems  
+- Embedded & Edge AI  
+- Autonomous Perception Systems  
+- Computer Vision & Intelligent Sensing  
+- RF Signal Processing  
+- Quantum Algorithms & Cryptography  
+- Hybrid Classical–Quantum Systems  
 
 ---
 
@@ -24,30 +36,56 @@
   <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark" />
 </p>
 
-### 🧠 AI / ML
+- Python, C  
+- ROS (Robot Operating System)  
+- Embedded Linux (Ubuntu)  
+- Data Structures & Algorithms  
+
+---
+
+### 🧠 AI / ML & Computer Vision
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-### ⚛️ Quantum & Robotics
+- Machine Learning & Deep Learning  
+- Computer Vision  
+- NLP & Speech Processing  
+- Real-time inference pipelines  
+
+---
+
+### 🌐 Frameworks, Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
+- TensorFlow, PyTorch  
+- OpenCV  
+- Qiskit  
+- YOLOv5  
+- SGP4, TLE-based orbital modeling  
+
 ---
 
 ## 🚀 Featured Projects
-🛰️ **DhruvXPNT** — GNSS-Independent LEO-Based Navigation System  
-🌍 **OrbitXOS** — Space Debris Monitoring & SSA Platform  
-💧 **WQ Vision** — Embedded AI Water Quality Monitoring (🏆 Winner)
+🛰️ **DhruvXPNT** — GNSS-Independent LEO-Based Navigation & Timing System  
+🌍 **OrbitXOS** — Orbital Dynamics–Based Space Debris Monitoring Platform  
+💧 **WQ Vision** — Embedded AI Water Quality Monitoring System *(🏆 Winner – ProtoThon 1.0)*  
 
 ---
 
-## 🏆 Achievements
-🥇 **Smart India Hackathon 2025 — National Winner**  
-🥇 **ProtoThon 1.0 — Winner**  
-🥇 **AlgoVault Hackathon — Winner**
+## 🏆 Achievements & Honors
+
+| Event | Level | Result | Year |
+|------|------|-------|------|
+| **Smart India Hackathon (SIH)** | National | 🥇 Winner | 2025 |
+| **ProtoThon 1.0 – SRM IST** | Institutional | 🥇 Winner | 2025 |
+| **AlgoVault Hackathon** | Institutional | 🥇 Winner | 2025 |
+| U & ME State-Level Hackathon | State | Runner Up | 2025 |
+| HackXtreme’25 (24-Hour Hackathon) | Institutional | Runner Up | 2025 |
+| Hybrid Hack – Aarush’25 | National | Runner Up | 2025 |
 
 ---
 
@@ -59,14 +97,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -85,5 +123,5 @@
   <i>“Engineering systems that work when signals disappear.”</i>
 </p>
 
-<!-- Wave Footer -->
+<!-- ===================== WAVE FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
