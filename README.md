@@ -7,106 +7,125 @@
 
 ---
 
-## ⚡ About Me
+## 🧭 Profile Overview
+
+<table>
+<tr>
+<td width="60%">
+
+### ⚡ About Me
 🎓 **B.Tech (CSE) + Honors in Quantum Computation**  
 🏫 SRM Institute of Science and Technology, Trichy  
 📊 **CGPA: 9.35**
 
-🛰️ I work at the intersection of **AI, embedded systems, RF-aware intelligence, and quantum computing**, with a strong focus on **GNSS-denied navigation**, **autonomous systems**, and **mission-critical AI**.
+🛰️ Working at the intersection of **AI, embedded systems, RF-aware intelligence, and quantum computing**, with strong focus on **GNSS-denied navigation**, **autonomous systems**, and **mission-critical AI**.
 
 🏆 **Smart India Hackathon 2025 — National Winner**
 
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🧠 Core Focus Areas
+## 🧠 Core Domains
+
+<table>
+<tr>
+<td>
+
 - GNSS-Denied Navigation & PNT Systems  
 - Embedded & Edge AI  
 - Autonomous Perception Systems  
 - Computer Vision & Intelligent Sensing  
+
+</td>
+<td>
+
 - RF Signal Processing  
 - Quantum Algorithms & Cryptography  
 - Hybrid Classical–Quantum Systems  
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Ordered & Visual)
 
-<!-- ================= CORE PROGRAMMING ================= -->
+### ① Core Programming & Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git&theme=dark" />
 </p>
 
-<!-- ================= SYSTEMS & OS ================= -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git&theme=dark" />
-</p>
+---
 
-<!-- ================= AI / ML / CV ================= -->
+### ② AI / ML & Perception
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-<!-- ================= ROBOTICS & EMBEDDED ================= -->
+---
+
+### ③ Robotics & Embedded Systems
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<!-- ================= QUANTUM ================= -->
+---
+
+### ④ Quantum Computing
 <p align="center">
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-<!-- ================= CV / DETECTION ================= -->
+---
+
+### ⑤ Detection, Space & Navigation
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
 </p>
 
-<!-- ================= SPACE / NAVIGATION ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/SGP4-Orbital%20Dynamics-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TLE-Satellite%20Data-0A0A0A?style=for-the-badge"/>
 </p>
 
-<!-- ================= PLATFORM ================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-
 ---
 
 ## 🚀 Featured Projects
-🛰️ **DhruvXPNT** — GNSS-Independent LEO-Based Navigation & Timing System  
-🌍 **OrbitXOS** — Orbital Dynamics–Based Space Debris Monitoring Platform  
-💧 **WQ Vision** — Embedded AI Water Quality Monitoring System *(🏆 Winner – ProtoThon 1.0)*  
+
+| Project | Description |
+|------|------------|
+| 🛰️ **DhruvXPNT** | GNSS-Independent LEO-Based Navigation & Timing System |
+| 🌍 **OrbitXOS** | Orbital Dynamics–Based Space Debris Monitoring Platform |
+| 💧 **WQ Vision** | Embedded AI Water Quality Monitoring System (🏆 Winner – ProtoThon 1.0) |
 
 ---
 
 ## 🏆 Achievements & Honors
 
 | Event | Level | Result | Year |
-|------|------|-------|------|
-| **Smart India Hackathon (SIH)** | National | 🥇 Winner | 2025 |
-| **ProtoThon 1.0 – SRM IST** | Institutional | 🥇 Winner | 2025 |
-| **AlgoVault Hackathon** | Institutional | 🥇 Winner | 2025 |
+|------|------|------|------|
+| Smart India Hackathon (SIH) | National | 🥇 Winner | 2025 |
+| ProtoThon 1.0 – SRM IST | Institutional | 🥇 Winner | 2025 |
+| AlgoVault Hackathon | Institutional | 🥇 Winner | 2025 |
 | U & ME State-Level Hackathon | State | Runner Up | 2025 |
-| HackXtreme’25 (24-Hour Hackathon) | Institutional | Runner Up | 2025 |
+| HackXtreme’25 | Institutional | Runner Up | 2025 |
 | Hybrid Hack – Aarush’25 | National | Runner Up | 2025 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
