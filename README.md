@@ -31,41 +31,47 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Systems
+<!-- Programming & Core Systems -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git&theme=dark" />
 </p>
 
-- Python, C  
-- ROS (Robot Operating System)  
-- Embedded Linux (Ubuntu)  
-- Data Structures & Algorithms  
-
----
-
-### 🧠 AI / ML & Computer Vision
+<!-- AI / ML / Computer Vision -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-- Machine Learning & Deep Learning  
-- Computer Vision  
-- NLP & Speech Processing  
-- Real-time inference pipelines  
-
----
-
-### 🌐 Frameworks, Tools & Platforms
+<!-- Backend / APIs (if used later, safe to include) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" />
+</p>
+
+<!-- Robotics / Embedded / Systems -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<!-- Quantum Computing -->
+<p align="center">
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-- TensorFlow, PyTorch  
-- OpenCV  
-- Qiskit  
-- YOLOv5  
-- SGP4, TLE-based orbital modeling  
+<!-- Computer Vision / Detection -->
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+</p>
+
+<!-- Space / Navigation / Modeling -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SGP4-Orbital%20Dynamics-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TLE-Satellite%20Data-0A0A0A?style=for-the-badge"/>
+</p>
+
+<!-- Platforms -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
