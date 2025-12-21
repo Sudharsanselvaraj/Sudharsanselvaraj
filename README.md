@@ -1,8 +1,8 @@
-<!-- ===================== HEADER ===================== -->
-<h2 align="center">👋 Hi there, I’m Sudharsan S</h2>
+<!-- ===================== WAVE HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I’m%20Sudharsan%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Systems%20Engineer%20|%20Quantum%20Computing%20Researcher&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;GNSS-Denied+Navigation+%7C+Embedded+AI;Mission-Critical+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=GNSS-Denied+Navigation+%7C+Embedded+AI;Autonomous+Perception+Systems;Mission-Critical+Intelligent+Systems" />
 </p>
 
 ---
@@ -19,13 +19,14 @@
 
 🎓 **B.Tech (CSE)**  
 Honors in **Quantum Computation**  
-SRM IST, Trichy  
+SRM Institute of Science and Technology, Trichy  
 <br>
 📊 **CGPA: 9.35**
 
 <br><br>
 
-🏆 **SIH 2025 – National Winner**
+🏆 **Smart India Hackathon 2025**  
+**National Winner**
 
 </td>
 
@@ -122,9 +123,9 @@ My work spans **GNSS-denied navigation**, **embedded & edge AI**, **autonomous p
 
 | Project | Description |
 |------|-------------|
-| 🛰️ **DhruvXPNT** | GNSS-Independent LEO-Based Navigation & Timing System |
+| 🛰️ **DhruvXPNT** | GNSS-Independent LEO-Based Navigation & Timing |
 | 🌍 **OrbitXOS** | Orbital Dynamics–Based Space Debris Monitoring |
-| 💧 **WQ Vision** | Embedded AI Water Quality Monitoring System |
+| 💧 **WQ Vision** | Embedded AI Water Quality Monitoring |
 
 ---
 
@@ -147,3 +148,6 @@ My work spans **GNSS-denied navigation**, **embedded & edge AI**, **autonomous p
 <p align="center">
 <i>“Engineering systems that remain reliable when assumptions fail.”</i>
 </p>
+
+<!-- ===================== WAVE FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
