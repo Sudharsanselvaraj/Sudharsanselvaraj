@@ -1,55 +1,65 @@
-<!-- ===================== WAVE HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;Embedded+AI+%7C+GNSS-Denied+Navigation;Mission-Critical+Intelligent+Systems" />
-</p>
+<!-- ===================== HERO BANNER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=230&section=header&text=Hi,%20I'm%20Sudharsan%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Systems%20Engineer%20|%20Quantum%20Computing%20Researcher&descAlignY=60&descSize=18"/>
 
 ---
 
-## 🧭 Profile Overview
+## 👋 About Me
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+🎓 <b>B.Tech (CSE) + Honors in Quantum Computation</b><br>
+SRM Institute of Science and Technology, Trichy &nbsp;•&nbsp; <b>CGPA: 9.35</b><br><br>
 
-### ⚡ About Me
-🎓 **B.Tech (CSE) + Honors in Quantum Computation**  
-🏫 SRM Institute of Science and Technology, Trichy  
-📊 **CGPA: 9.35**
+🛰️ I build <b>mission-critical intelligent systems</b> across<br>
+<b>GNSS-denied navigation, embedded AI, autonomous perception</b>, and <b>quantum algorithms</b>.
+</p>
 
-🛰️ Working at the intersection of **AI, embedded systems, RF-aware intelligence, and quantum computing**, with strong focus on **GNSS-denied navigation**, **autonomous systems**, and **mission-critical AI**.
-
-🏆 **Smart India Hackathon 2025 — National Winner**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+🏆 <b>Smart India Hackathon 2025 — National Winner</b>
+</p>
 
 ---
 
 ## 🧠 Core Domains
 
-<table>
+<p align="center">
+GNSS-Denied Navigation & PNT &nbsp;•&nbsp;
+Embedded & Edge AI &nbsp;•&nbsp;
+Autonomous Perception &nbsp;•&nbsp;
+Computer Vision & Intelligent Sensing &nbsp;•&nbsp;
+RF Signal Processing &nbsp;•&nbsp;
+Quantum Algorithms & Cryptography
+</p>
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,tensorflow,pytorch,opencv&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SGP4-Orbital%20Dynamics-0A0A0A?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<table align="center">
 <tr>
 <td>
 
-- GNSS-Denied Navigation & PNT Systems  
-- Embedded & Edge AI  
-- Autonomous Perception Systems  
-- Computer Vision & Intelligent Sensing  
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 <td>
 
-- RF Signal Processing  
-- Quantum Algorithms & Cryptography  
-- Hybrid Classical–Quantum Systems  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -57,56 +67,26 @@
 
 ---
 
-## 🛠️ Tech Stack (Ordered & Visual)
+## 🔥 Activity Snapshot
 
-### ① Core Programming & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git&theme=dark" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<b>Total Contributions</b><br>
+<img src="https://img.shields.io/badge/609-blue?style=for-the-badge"/>
+</td>
 
----
+<td align="center">
+<b>Current Streak</b><br>
+<img src="https://img.shields.io/badge/1_day-orange?style=for-the-badge"/>
+</td>
 
-### ② AI / ML & Perception
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-</p>
-
----
-
-### ③ Robotics & Embedded Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-### ④ Quantum Computing
-<p align="center">
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
-
----
-
-### ⑤ Detection, Space & Navigation
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SGP4-Orbital%20Dynamics-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TLE-Satellite%20Data-0A0A0A?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|------|------------|
-| 🛰️ **DhruvXPNT** | GNSS-Independent LEO-Based Navigation & Timing System |
-| 🌍 **OrbitXOS** | Orbital Dynamics–Based Space Debris Monitoring Platform |
-| 💧 **WQ Vision** | Embedded AI Water Quality Monitoring System (🏆 Winner – ProtoThon 1.0) |
+<td align="center">
+<b>Longest Streak</b><br>
+<img src="https://img.shields.io/badge/6_days-green?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,19 +98,23 @@
 | **ProtoThon 1.0 – SRM IST** | Institutional | 🥇 Winner | ₹5,000 |
 | **AlgoVault Hackathon** | Institutional | 🥇 Winner | ₹5,000 |
 | **U & ME State-Level Hackathon** | State | Runner Up | Recognition |
-| **HackXtreme’25 (24-Hour Hackathon)** | Institutional | Runner Up | Recognition |
+| **HackXtreme’25** | Institutional | Runner Up | Recognition |
 | **Hybrid Hack – Aarush’25** | National | Runner Up | Recognition |
 
 ---
 
-## 📊 Activity Snapshot
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=tokyonight&hide_border=true"/>
-</p>
+## 🚀 Featured Projects
+
+| Project | Focus |
+|------|------|
+| 🛰️ **DhruvXPNT** | GNSS-Independent LEO Navigation & Timing |
+| 🌍 **OrbitXOS** | Space Debris Monitoring & SSA |
+| 💧 **WQ Vision** | Embedded AI Water Quality Monitoring |
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -146,8 +130,8 @@
 ---
 
 <p align="center">
-  <i>“Engineering systems that work when signals disappear.”</i>
+<i>“Engineering systems that remain reliable when signals disappear.”</i>
 </p>
 
-<!-- ===================== WAVE FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=90&section=footer"/>
