@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=232626,414345&height=180&section=header&text=Sudharsan%20S&fontSize=48&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,414345&height=180&section=header&text=Sudharsan%20S&fontSize=48&fontColor=ffffff"/>
 
 <h2 align="center">
 AI & Systems Engineer &nbsp;|&nbsp; Quantum Computing Researcher
