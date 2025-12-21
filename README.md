@@ -1,53 +1,91 @@
-<!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- ===================== SPACE / QUANTUM ANIMATED HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=200&section=header&text=Sudharsan%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;Embedded+AI+%7C+GNSS-Denied+Navigation;Building+Mission-Critical+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=800&color=7DF9FF&center=true&vCenter=true&width=850&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;GNSS-Denied+Navigation+%7C+Embedded+AI;Building+Mission-Critical+Intelligent+Systems;Space+%7C+Quantum+%7C+Autonomous+Intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="480"/>
 </p>
 
 ---
 
-## ⚡ About Me (Quick)
+## 🚀 Quick Snapshot
 🎓 **B.Tech CSE + Honors in Quantum Computation**  
 🏫 SRM Institute of Science and Technology, Trichy  
 📊 **CGPA: 9.35**  
+🏆 **Smart India Hackathon 2025 — National Winner**
 
-🛰️ Focused on **GNSS-denied navigation**, **embedded intelligence**, **autonomous systems**, and **quantum algorithms**  
-🏆 **SIH 2025 National Winner**
+🛰️ Focus: **GNSS-denied navigation, embedded intelligence, autonomous systems & quantum algorithms**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Animated Icons)
 
 ### 💻 Programming & Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,ros,git&theme=dark"/>
 </p>
 
 ### 🧠 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 </p>
 
-### ⚛️ Quantum & Robotics
+### ⚛️ Quantum
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-🛰️ **DhruvXPNT** — GNSS-Independent LEO-Based Navigation System  
-🌍 **OrbitXOS** — Space Debris Monitoring & SSA Platform  
-💧 **WQ Vision** — Embedded AI Water Quality Monitoring (🏆 Winner)
+## 🔁 Auto-Rotating Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharsanselvaraj&repo=DhruvXPNT&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharsanselvaraj&repo=OrbitXOS&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudharsanselvaraj&repo=WQ-Vision&theme=tokyonight"/>
+</p>
+
+> 🔁 *GitHub automatically rotates these pins visually as stats update*
 
 ---
 
-## 🏆 Achievements
-🥇 **Smart India Hackathon 2025 — National Winner**  
-🥇 **ProtoThon 1.0 — Winner**  
-🥇 **AlgoVault Hackathon — Winner**
+## 🎥 System Architecture (GIF-Based)
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="700"/>
+</p>
+
+<p align="center">
+<i>End-to-end intelligent system pipeline: Signal → Perception → Decision → Action</i>
+</p>
+
+---
+
+## 🌌 Space & Quantum Visuals
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="320"/>
+</p>
+
+---
+
+## 📈 3D GitHub Contribution Graph
+<p align="center">
+  <img src="https://github.com/Sudharsanselvaraj/Sudharsanselvaraj/blob/main/profile-3d-contrib/profile-night-green.svg"/>
+</p>
+
+> ⚠️ *Enable via GitHub Action (steps below)*
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -55,13 +93,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -82,8 +113,8 @@
 ---
 
 <p align="center">
-  <i>“Engineering systems that work when signals disappear.”</i>
+  <i>“Engineering systems that operate when signals disappear.”</i>
 </p>
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020024&height=140&section=footer"/>
