@@ -1,5 +1,5 @@
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,414345&height=180&section=header&text=Sudharsan%20S&fontSize=48&fontColor=ffffff"/>
+<!-- ===================== BLUE WAVE HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,0D4C73&height=180&section=header&text=Sudharsan%20S&fontSize=48&fontColor=ffffff"/>
 
 <h2 align="center">
 AI & Systems Engineer &nbsp;|&nbsp; Quantum Computing Researcher
@@ -36,19 +36,19 @@ My work spans <b>GNSS-denied navigation</b>, <b>embedded & edge AI</b>,
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-1F1F1F?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-0A2A43?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-0D4C73?style=for-the-badge&logo=ros&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-1F3C88?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Qiskit-4B0082?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv5-00B4D8?style=for-the-badge&logo=opencv&logoColor=black"/>
 </p>
 
 ---
@@ -99,17 +99,17 @@ My work spans <b>GNSS-denied navigation</b>, <b>embedded & edge AI</b>,
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Sudharsanselvaraj">
-    <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0A2A43?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=414345,232526&height=110&section=footer"/>
+<!-- ===================== BLUE WAVE FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D4C73,0A2A43&height=110&section=footer"/>
