@@ -1,71 +1,100 @@
-<!-- ===================== HEADER WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,0D4C73&height=180&section=header"/>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff"/>
 
-<!-- ===================== ANIMATED NAME ===================== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Sudharsan+S;AI+%26+Systems+Engineer;Quantum+Computing+Researcher;GNSS-Denied+Navigation+%7C+Embedded+AI"/>
-</h1>
+<h3 align="center">
+AI & Systems Engineer · Quantum Computing Researcher
+</h3>
 
 <p align="center">
-  <b>GNSS-Denied Navigation · Embedded Intelligence · Autonomous Systems</b>
+GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 Profile Overview
 
-I am an **AI & Systems Engineer** focused on building **hardware-aware, real-world intelligent systems**.  
-My work spans **GNSS-denied navigation**, **embedded & edge AI**, **autonomous perception**, and **quantum algorithms**.
+<table>
+<tr>
+<td width="35%" valign="top">
 
-I approach problems end-to-end — from **signals and sensors** to **algorithms, embedded deployment, and validation**.
+### 👤 About Me
+- 🎓 B.Tech CSE + Honors in Quantum Computation  
+- 🏆 **Smart India Hackathon 2025 – National Winner**  
+- 🔬 Research Intern — **NIT Trichy**  
+- 🤖 ML Robotics Intern — **Persistent Ventures (USA)**  
 
-🏆 **Smart India Hackathon 2025 – National Winner**
+**Engineering Philosophy**  
+> Build systems that survive real-world constraints —  
+> signal loss, noise, latency, hardware limits.
+
+</td>
+
+<td width="65%" valign="top">
+
+### ⚙️ Technical Skills
+
+**Programming & Systems**  
+<img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
+
+**AI / ML / CV**  
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+**Quantum & Tools**  
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+<img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Engineering & Research Metrics
+## 📊 GitHub Stats Dashboard
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Sudharsanselvaraj?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&languages=1&languages.limit=10&languages.sections=most-used&languages.colors=github&isocalendar=1&isocalendar.duration=full-year&habits=1&habits.from=200&habits.days=14&habits.charts=1&people=1&people.limit=24&projects=1&projects.limit=4&stars=1&activity=1&config.timezone=Asia/Calcutta&config.display=large&config.theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Sudharsanselvaraj?template=classic&base.header=0&base.activity=1&base.repositories=1&languages=1&isocalendar=1&habits=1&config.theme=dark"/>
 </p>
 
 ---
 
-## 🧱 Contribution Skyline (3D)
+## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Sudharsanselvaraj?template=classic&base=0&calendar=1&calendar.type=3d&calendar.limit=365&config.theme=dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudharsanselvaraj&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 🧠 Technical Identity
+## 🚀 Flagship Projects
 
-**Focus Areas**
-- GNSS-Denied Navigation & Opportunistic PNT  
-- Embedded & Edge AI Systems  
-- Autonomous Perception Pipelines  
-- Quantum Algorithms & Cryptography  
-
-**Engineering Principle**
-> Build systems that survive real-world constraints — signal loss, noise, latency, hardware limits.
-
----
-
-## 🏆 Highlights
-
-- 🥇 **Smart India Hackathon 2025 – National Winner**
-- Research Intern — **NIT Trichy (Quantum Computation)**
-- ML Robotics Intern — **Persistent Ventures (USA)**
-- Lead Developer — **DhruvXPNT (Cognitive LEO-PNT System)**
-
----
-
-## 🐍 Contribution Flow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake.svg"/>
-</p>
+| Project | Description |
+|------|------------|
+| **DhruvXPNT** | Cognitive GNSS-independent LEO-PNT system using signals of opportunity |
+| **OrbitXOS** | Space debris monitoring using SGP4 & TLE data |
+| **WQ Vision** | Embedded AI + IoT water quality monitoring (ProtoThon Winner) |
 
 ---
 
@@ -83,5 +112,5 @@ I approach problems end-to-end — from **signals and sensors** to **algorithms,
   </a>
 </p>
 
-<!-- ===================== FOOTER WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D4C73,0A2A43&height=120&section=footer"/>
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=90&section=footer"/>
