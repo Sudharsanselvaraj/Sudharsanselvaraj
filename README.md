@@ -66,23 +66,23 @@
 ## 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600"
-    alt="GitHub Stats"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200"
+    width="48%"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true&cache_seconds=3600"
-    alt="Top Languages"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true&cache_seconds=7200"
+    width="48%"
   />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"
-    alt="GitHub Streak"
+    width="60%"
   />
 </p>
 
