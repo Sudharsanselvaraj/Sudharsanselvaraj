@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=38&fontColor=ffffff"/>
 
 <h3 align="center">
 AI & Systems Engineer · Quantum Computing Researcher
@@ -23,7 +23,7 @@ GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 - 🔬 Research Intern — **NIT Trichy**  
 - 🤖 ML Robotics Intern — **Persistent Ventures (USA)**  
 
-**Engineering Philosophy**  
+**Engineering Principle**  
 > Build systems that survive real-world constraints —  
 > signal loss, noise, latency, hardware limits.
 
@@ -39,7 +39,7 @@ GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 **AI / ML / CV**  
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
-**Quantum & Tools**  
+**Tools & Platforms**  
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
 
@@ -68,14 +68,16 @@ GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 
 ---
 
-## 📈 Contribution Analytics
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
 </p>
 
+<!-- 🔥 PROFESSIONAL SNAKE (SUBTLE, DARK, HORIZONTAL) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
@@ -112,4 +114,4 @@ GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 </p>
 
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=80&section=footer"/>
