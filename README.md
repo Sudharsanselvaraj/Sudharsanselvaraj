@@ -13,70 +13,62 @@
 
 ## ⚙️ Core Skills & Technologies
 
-<table width="100%" align="center">
-<tr>
-
-<!-- COLUMN 1 -->
-<td width="33%" valign="top">
-
 ### 🧠 Programming & Systems
-<img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
+</p>
 
-<br><br>
+---
 
 ### 🤖 AI / ML / Computer Vision
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+</p>
 
-</td>
-
-<!-- COLUMN 2 -->
-<td width="33%" valign="top">
+---
 
 ### 🗣️ Data, NLP & Speech
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
+  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
+</p>
 
-<br><br>
+---
 
 ### ⚛️ Quantum & Tooling
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
+</p>
 
-</td>
-
-<!-- COLUMN 3 -->
-<td width="33%" valign="top">
+---
 
 ### 🖥️ Platforms & OS
-<img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
+</p>
 
-<br><br>
+---
 
 ### 🧰 Systems & Hardware
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
-
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats Dashboard
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
+</p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
 </p>
 
