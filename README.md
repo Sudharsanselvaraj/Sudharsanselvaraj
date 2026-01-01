@@ -1,158 +1,78 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,0D4C73&height=180&section=header&text=Sudharsan%20S&fontSize=46&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,0D4C73&height=180&section=header&text=Sudharsan%20S&fontSize=44&fontColor=ffffff"/>
 
 <h2 align="center">
 AI & Systems Engineer · Quantum Computing Researcher
 </h2>
 
 <p align="center">
-<b>GNSS-Denied Navigation · Embedded Intelligence · Autonomous & Mission-Critical Systems</b>
+GNSS-Denied Navigation · Embedded Intelligence · Autonomous Systems
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## 📊 Engineering & Research Metrics
 
-I am an **AI & Systems Engineer** with strong hands-on experience in building **hardware-aware intelligent systems** that operate under **real-world constraints**.  
-My work lies at the intersection of:
-
-- **GNSS-denied navigation & opportunistic PNT**
-- **Embedded & edge AI**
-- **Autonomous perception systems**
-- **Quantum algorithms for cryptography & optimization**
-
-I focus on **end-to-end system thinking** — from RF signals and sensors to algorithms, embedded deployment, and validation.
-
-🏆 **Smart India Hackathon 2025 – National Winner**
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science & Engineering**  
-*SRM Institute of Science and Technology, Trichy*  
-**CGPA:** 9.35 / 10  
-
-**Honors:** B.Tech (Hons.) in **Quantum Computation**
-
----
-
-## 🧩 Core Technical Competencies
-
-### Programming & Systems
-- **Python**, **C**
-- **Linux (Ubuntu)**
-- **ROS (Robot Operating System)**
-- Embedded Linux environments
-
-### AI & Machine Learning
-- Classical ML & Deep Learning
-- **Computer Vision**
-- Real-time inference on edge devices
-
-### Frameworks & Libraries
-- **TensorFlow**, **PyTorch**
-- **OpenCV**
-- **YOLOv5**
-- **Qiskit**
-
-### Systems & Signal Processing
-- RF signal processing fundamentals
-- Hardware–software co-design
-- Embedded sensing & perception pipelines
+<p align="center">
+  <img src="https://metrics.lecoq.io/Sudharsanselvaraj
+  ?template=classic
+  &base.header=0
+  &base.activity=1
+  &base.community=1
+  &base.repositories=1
+  &base.metadata=1
+  &languages=1
+  &languages.limit=8
+  &languages.analysis.timeout=15
+  &languages.analysis.time=6
+  &languages.colors=github
+  &languages.sections=most-used
+  &isocalendar=1
+  &isocalendar.duration=full-year
+  &habits=1
+  &habits.from=200
+  &habits.days=14
+  &habits.facts=1
+  &habits.charts=1
+  &contributors=1
+  &contributors.head=false
+  &people=1
+  &people.limit=24
+  &people.size=28
+  &followup=1
+  &stargazers=1
+  &projects=1
+  &projects.limit=4
+  &stars=1
+  &activity=1
+  &activity.limit=5
+  &config.timezone=Asia/Calcutta
+  &config.display=large
+  &config.theme=dark"
+  />
+</p>
 
 ---
 
-## 🧪 Research & Industry Experience
+## 🧠 Technical Identity
 
-### 🔬 Quantum Computation Research Intern  
-**National Institute of Technology, Trichy**  
-*Jun 2025 – Jul 2025*
+**Focus Areas**
+- GNSS-Denied Navigation & Opportunistic PNT  
+- Embedded & Edge AI Systems  
+- Autonomous Perception Pipelines  
+- Quantum Algorithms & Cryptography  
 
-- Designed and implemented quantum algorithms including:
-  - Caesar Cipher (quantum formulation)
-  - Grover’s Search
-  - Shor’s Algorithm
-- Performed cryptographic analysis and quantum search optimization using **Qiskit**
-
----
-
-### 🤖 ML-Powered Robotics Developer (Intern)  
-**Persistent Ventures, San Francisco (Remote)**  
-*Jan 2025 – Mar 2025*
-
-- Architected an end-to-end **ML perception pipeline** for an autonomous service robot
-- Implemented real-time object detection using **YOLOv5 + TensorFlow**
-- Validated perception performance for dynamic obstacle avoidance in indoor environments
+**Engineering Philosophy**
+> Build systems that survive real-world constraints — signal loss, noise, latency, hardware limits.
 
 ---
 
-### 🗣️ Machine Data Analyst (Part-Time)  
-**Indika AI**  
-*Jul 2024 – Sep 2024*
+## 🏆 Highlights
 
-- Curated and annotated large-scale speech datasets
-- Optimized ML workflows for **speech recognition & NLP**
-- Improved speech-to-text accuracy in production pipelines
-
----
-
-## 🚀 Flagship Projects
-
-### 🛰️ DhruvXPNT  
-**Cognitive Opportunistic LEO-Based Navigation & Timing System**
-
-- Developed a **GNSS-independent PNT system** using LEO signals of opportunity
-- Implemented Doppler-based navigation under GNSS-denied conditions
-- Built a full **RF → signal processing → navigation solution pipeline**
-- Deployed and tested on **embedded Linux platforms**
-
----
-
-### 🌍 OrbitXOS  
-**Orbital Dynamics–Based Space Debris Monitoring System**
-
-- Designed a Space Situational Awareness (SSA) platform
-- Used **SGP4 + TLE data** for real-time satellite & debris tracking
-- Visualized collision risk and orbital dynamics
-
----
-
-### 💧 WQ Vision  
-**Embedded AI & IoT Water Quality Monitoring System**
-
-- Built a low-cost vision-based water quality analysis system
-- Used **ESP32-CAM + Computer Vision**
-- Detected contaminants and classified water safety in real time
-- 🏆 **Winner – ProtoThon 1.0**
-
----
-
-## 🏆 Honors & Achievements
-
-| Competition | Level | Result |
-|------------|------|--------|
-| Smart India Hackathon 2025 | National | 🥇 Winner |
-| ProtoThon 1.0 – SRM IST | Institutional | 🥇 Winner |
-| AlgoVault Hackathon | Institutional | 🥇 Winner |
-| U & ME Hackathon | State | Runner Up |
-| HackXtreme’25 | Institutional | Runner Up |
-| Hybrid Hack – Aarush’25 | National | Runner Up |
-
----
-
-## 📊 GitHub Analytics
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
-</td>
-</tr>
-</table>
+- 🥇 **Smart India Hackathon 2025 – National Winner**
+- Research Intern — **NIT Trichy (Quantum Computation)**
+- ML Robotics Intern — **Persistent Ventures (USA)**
+- Builder of **DhruvXPNT** (Cognitive LEO-PNT System)
 
 ---
 
