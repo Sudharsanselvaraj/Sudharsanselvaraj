@@ -14,45 +14,35 @@
 ## ⚙️ Core Skills & Technologies
 
 ### 🧠 Programming & Systems
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
 </p>
 
----
-
 ### 🤖 AI / ML / Computer Vision
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 </p>
 
----
-
 ### 🗣️ Data, NLP & Speech
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
   <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
   <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
 </p>
 
----
-
 ### ⚛️ Quantum & Tooling
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
   <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
 </p>
 
----
-
 ### 🖥️ Platforms & OS
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
 </p>
 
----
-
 ### 🧰 Systems & Hardware
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
 </p>
 
@@ -60,15 +50,15 @@
 
 ## 📊 GitHub Stats Dashboard
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
-<p align="left">
+<p>
   <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
 </p>
 
