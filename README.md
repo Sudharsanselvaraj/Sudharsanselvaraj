@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;GNSS-Denied+Navigation+Engineer;Embedded+AI+%7C+Autonomous+Systems;Mission-Critical+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;GNSS-Denied+Navigation+Engineer;Embedded+AI+%7C+Autonomous+Systems;Mission-Critical+Intelligent+Systems"/>
 </h2>
 
 <p align="center">
@@ -13,36 +13,51 @@
 
 ## ⚙️ Core Skills & Technologies
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td width="50%" valign="top">
+
+<!-- COLUMN 1 -->
+<td width="33%" valign="top">
 
 ### 🧠 Programming & Systems
 <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
 
+<br><br>
+
 ### 🤖 AI / ML / Computer Vision
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+</td>
+
+<!-- COLUMN 2 -->
+<td width="33%" valign="top">
 
 ### 🗣️ Data, NLP & Speech
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
 <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
 
-</td>
-
-<td width="50%" valign="top">
+<br><br>
 
 ### ⚛️ Quantum & Tooling
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 <img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
 
+</td>
+
+<!-- COLUMN 3 -->
+<td width="33%" valign="top">
+
 ### 🖥️ Platforms & OS
 <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
+
+<br><br>
 
 ### 🧰 Systems & Hardware
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
 
 </td>
+
 </tr>
 </table>
 
