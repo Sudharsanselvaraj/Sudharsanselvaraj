@@ -13,52 +13,70 @@
 
 ## ⚙️ Core Skills & Technologies
 
-### 🧠 Programming & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
-</p>
+<table width="100%" align="center">
+<tr>
 
-### 🤖 AI / ML / Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-</p>
+<!-- COLUMN 1 -->
+<td width="33%" valign="top">
 
-### 🗣️ Data, NLP & Speech
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
-  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
-</p>
+### Programming & Systems
+<img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
 
-### ⚛️ Quantum & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-  <img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
-</p>
+<br><br>
 
-### 🖥️ Platforms & OS
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
-</p>
+### AI / ML / Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
-### 🧰 Systems & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
-</p>
+</td>
+
+<!-- COLUMN 2 -->
+<td width="33%" valign="top">
+
+### Data, NLP & Speech
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
+
+<br><br>
+
+### Quantum & Tooling
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
+
+</td>
+
+<!-- COLUMN 3 -->
+<td width="33%" valign="top">
+
+### Platforms & OS
+<img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
+
+<br><br>
+
+### Systems & Hardware
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats Dashboard
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
 </p>
 
