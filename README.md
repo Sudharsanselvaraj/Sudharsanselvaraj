@@ -1,91 +1,162 @@
-<!-- ===================== BLUE WAVE HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,0D4C73&height=180&section=header&text=Sudharsan%20S&fontSize=48&fontColor=ffffff"/>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2A43,0D4C73&height=180&section=header&text=Sudharsan%20S&fontSize=46&fontColor=ffffff"/>
 
 <h2 align="center">
-AI & Systems Engineer &nbsp;|&nbsp; Quantum Computing Researcher
+AI & Systems Engineer · Quantum Computing Researcher
 </h2>
 
 <p align="center">
-<b>GNSS-Denied Navigation · Embedded AI · Autonomous Systems</b>
+<b>GNSS-Denied Navigation · Embedded Intelligence · Autonomous & Mission-Critical Systems</b>
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 Professional Summary
 
-<p>
-🎓 <b>B.Tech (CSE) + Honors in Quantum Computation</b><br>
-SRM Institute of Science and Technology, Trichy<br>
-<b>CGPA:</b> 9.35
-</p>
+I am an **AI & Systems Engineer** with strong hands-on experience in building **hardware-aware intelligent systems** that operate under **real-world constraints**.  
+My work lies at the intersection of:
 
-<p>
-I focus on building <b>real-world, hardware-aware intelligent systems</b>.
-My work spans <b>GNSS-denied navigation</b>, <b>embedded & edge AI</b>,
-<b>autonomous perception</b>, and <b>quantum algorithms</b>.
-</p>
+- **GNSS-denied navigation & opportunistic PNT**
+- **Embedded & edge AI**
+- **Autonomous perception systems**
+- **Quantum algorithms for cryptography & optimization**
 
-<p>
-🏆 <b>Smart India Hackathon 2025 — National Winner</b>
-</p>
+I focus on **end-to-end system thinking** — from RF signals and sensors to algorithms, embedded deployment, and validation.
+
+🏆 **Smart India Hackathon 2025 – National Winner**
 
 ---
 
-## ⚙️ Technical Stack
+## 🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-0A2A43?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-0D4C73?style=for-the-badge&logo=ros&logoColor=white"/>
-</p>
+**B.Tech in Computer Science & Engineering**  
+*SRM Institute of Science and Technology, Trichy*  
+**CGPA:** 9.35 / 10  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-1F3C88?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Qiskit-4B0082?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv5-00B4D8?style=for-the-badge&logo=opencv&logoColor=black"/>
-</p>
+**Honors:** B.Tech (Hons.) in **Quantum Computation**
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Core Technical Competencies
+
+### Programming & Systems
+- **Python**, **C**
+- **Linux (Ubuntu)**
+- **ROS (Robot Operating System)**
+- Embedded Linux environments
+
+### AI & Machine Learning
+- Classical ML & Deep Learning
+- **Computer Vision**
+- Real-time inference on edge devices
+
+### Frameworks & Libraries
+- **TensorFlow**, **PyTorch**
+- **OpenCV**
+- **YOLOv5**
+- **Qiskit**
+
+### Systems & Signal Processing
+- RF signal processing fundamentals
+- Hardware–software co-design
+- Embedded sensing & perception pipelines
+
+---
+
+## 🧪 Research & Industry Experience
+
+### 🔬 Quantum Computation Research Intern  
+**National Institute of Technology, Trichy**  
+*Jun 2025 – Jul 2025*
+
+- Designed and implemented quantum algorithms including:
+  - Caesar Cipher (quantum formulation)
+  - Grover’s Search
+  - Shor’s Algorithm
+- Performed cryptographic analysis and quantum search optimization using **Qiskit**
+
+---
+
+### 🤖 ML-Powered Robotics Developer (Intern)  
+**Persistent Ventures, San Francisco (Remote)**  
+*Jan 2025 – Mar 2025*
+
+- Architected an end-to-end **ML perception pipeline** for an autonomous service robot
+- Implemented real-time object detection using **YOLOv5 + TensorFlow**
+- Validated perception performance for dynamic obstacle avoidance in indoor environments
+
+---
+
+### 🗣️ Machine Data Analyst (Part-Time)  
+**Indika AI**  
+*Jul 2024 – Sep 2024*
+
+- Curated and annotated large-scale speech datasets
+- Optimized ML workflows for **speech recognition & NLP**
+- Improved speech-to-text accuracy in production pipelines
+
+---
+
+## 🚀 Flagship Projects
+
+### 🛰️ DhruvXPNT  
+**Cognitive Opportunistic LEO-Based Navigation & Timing System**
+
+- Developed a **GNSS-independent PNT system** using LEO signals of opportunity
+- Implemented Doppler-based navigation under GNSS-denied conditions
+- Built a full **RF → signal processing → navigation solution pipeline**
+- Deployed and tested on **embedded Linux platforms**
+
+---
+
+### 🌍 OrbitXOS  
+**Orbital Dynamics–Based Space Debris Monitoring System**
+
+- Designed a Space Situational Awareness (SSA) platform
+- Used **SGP4 + TLE data** for real-time satellite & debris tracking
+- Visualized collision risk and orbital dynamics
+
+---
+
+### 💧 WQ Vision  
+**Embedded AI & IoT Water Quality Monitoring System**
+
+- Built a low-cost vision-based water quality analysis system
+- Used **ESP32-CAM + Computer Vision**
+- Detected contaminants and classified water safety in real time
+- 🏆 **Winner – ProtoThon 1.0**
+
+---
+
+## 🏆 Honors & Achievements
+
+| Competition | Level | Result |
+|------------|------|--------|
+| Smart India Hackathon 2025 | National | 🥇 Winner |
+| ProtoThon 1.0 – SRM IST | Institutional | 🥇 Winner |
+| AlgoVault Hackathon | Institutional | 🥇 Winner |
+| U & ME Hackathon | State | Runner Up |
+| HackXtreme’25 | Institutional | Runner Up |
+| Hybrid Hack – Aarush’25 | National | Runner Up |
+
+---
+
+## 📊 GitHub Analytics
 
 <table align="center">
 <tr>
 <td>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
-
 </td>
 <td>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
-
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Honors
-
-| Event | Level | Result | Prize / Recognition |
-|------|------|--------|---------------------|
-| **Smart India Hackathon (SIH)** | National | 🥇 Winner | ₹1,50,000 |
-| **ProtoThon 1.0 – SRM IST** | Institutional | 🥇 Winner | ₹5,000 |
-| **AlgoVault Hackathon** | Institutional | 🥇 Winner | ₹5,000 |
-| U & ME State-Level Hackathon | State | Runner Up | Recognition |
-| HackXtreme’25 | Institutional | Runner Up | Recognition |
-| Hybrid Hack – Aarush’25 | National | Runner Up | Recognition |
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
@@ -99,7 +170,5 @@ My work spans <b>GNSS-denied navigation</b>, <b>embedded & edge AI</b>,
   </a>
 </p>
 
----
-
-<!-- ===================== BLUE WAVE FOOTER ===================== -->
+<!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D4C73,0A2A43&height=110&section=footer"/>
