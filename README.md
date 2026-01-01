@@ -1,91 +1,102 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=38&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff"/>
 
-<h3 align="center">
-AI & Systems Engineer · Quantum Computing Researcher
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Systems+Engineer;Quantum+Computing+Researcher;GNSS-Denied+Navigation+Engineer;Embedded+AI+%7C+Autonomous+Systems;Mission-Critical+Intelligent+Systems"/>
+</h2>
 
 <p align="center">
-GNSS-Denied Navigation · Embedded AI · Autonomous Systems
+  <b>GNSS-Denied Navigation · Embedded Intelligence · Autonomous & Mission-Critical Systems</b>
 </p>
 
 ---
 
-## 🧠 Profile Overview
+## 🧠 Professional Summary
 
-<table>
-<tr>
-<td width="35%" valign="top">
+AI & Systems Engineer with hands-on experience building **hardware-integrated intelligent systems** across  
+**RF signal processing, embedded platforms, and machine learning**.
 
-### 👤 About Me
-- 🎓 B.Tech CSE + Honors in Quantum Computation  
-- 🏆 **Smart India Hackathon 2025 – National Winner**  
-- 🔬 Research Intern — **NIT Trichy**  
-- 🤖 ML Robotics Intern — **Persistent Ventures (USA)**  
+Focused on:
+- GNSS-denied navigation & opportunistic PNT  
+- Embedded & edge AI  
+- Autonomous perception pipelines  
+- Quantum algorithms & cryptographic systems  
 
-**Engineering Principle**  
-> Build systems that survive real-world constraints —  
-> signal loss, noise, latency, hardware limits.
+🏆 **Smart India Hackathon 2025 — National Winner**
 
-</td>
+---
 
-<td width="65%" valign="top">
+## ⚙️ Core Skills & Technologies
 
-### ⚙️ Technical Skills
-
-**Programming & Systems**  
+### Programming & Systems
 <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
 
-**AI / ML / CV**  
+### AI / ML / Computer Vision
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
-**Tools & Platforms**  
+### Quantum & Tooling
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-<img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
-
-</td>
-</tr>
-</table>
+<img height="42" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
 
 ---
 
-## 📊 GitHub Stats Dashboard
+## 📊 Programming Language Usage & Proficiency (2026 Focus)
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+| Language | Usage Context | Proficiency | Notes |
+|-------|--------------|------------|------|
+| **Python** | ML, CV, Signal Processing, Prototyping | ⭐⭐⭐⭐⭐ | Primary language |
+| **C** | Embedded systems, low-level logic | ⭐⭐⭐⭐☆ | Performance-critical code |
+| **ROS** | Robotics middleware | ⭐⭐⭐⭐☆ | Navigation & perception |
+| **Shell (Linux)** | Automation & deployment | ⭐⭐⭐☆☆ | Embedded Linux |
+| **Quantum (Qiskit)** | Algorithm design | ⭐⭐⭐☆☆ | Research-oriented |
 
 ---
 
-## 📈 Contribution Activity
+## 🧱 Systems & Engineering Domains
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
-</p>
+| Domain | Experience |
+|-----|-----------|
+| Embedded Systems | Hardware–software co-design |
+| Signal Processing | RF, Doppler analysis |
+| Autonomous Systems | Perception & navigation |
+| Computer Vision | Real-time inference |
+| Quantum Computing | Algorithms & cryptography |
 
-<!-- 🔥 PROFESSIONAL SNAKE (SUBTLE, DARK, HORIZONTAL) -->
+---
+
+## 📈 Contribution Activity — 2026 Focus
+
+> _The animation below reflects my **ongoing contribution momentum** as I enter **2026**._
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudharsanselvaraj&theme=darkhub&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2025 — National Winner**
+- 🥇 ProtoThon 1.0 — Winner
+- 🥇 AlgoVault Hackathon — Winner
+- Research Intern — **NIT Trichy (Quantum Computation)**
+- ML Robotics Intern — **Persistent Ventures (USA)**
 
 ---
 
@@ -93,9 +104,9 @@ GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 
 | Project | Description |
 |------|------------|
-| **DhruvXPNT** | Cognitive GNSS-independent LEO-PNT system using signals of opportunity |
-| **OrbitXOS** | Space debris monitoring using SGP4 & TLE data |
-| **WQ Vision** | Embedded AI + IoT water quality monitoring (ProtoThon Winner) |
+| **DhruvXPNT** | GNSS-independent cognitive LEO-PNT system |
+| **OrbitXOS** | Space debris monitoring using SGP4 & TLE |
+| **WQ Vision** | Embedded AI water quality monitoring |
 
 ---
 
@@ -114,4 +125,4 @@ GNSS-Denied Navigation · Embedded AI · Autonomous Systems
 </p>
 
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=90&section=footer"/>
