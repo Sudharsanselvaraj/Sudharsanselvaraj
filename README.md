@@ -65,20 +65,29 @@
 
 ## 📊 GitHub Stats Dashboard
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true"/>
-</td>
-</tr>
-</table>
+## 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ---
 
