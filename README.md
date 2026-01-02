@@ -100,16 +100,15 @@
 
 | Event | Outcome | Prize / Recognition |
 |------|--------|---------------------|
-| **Smart India Hackathon 2025** | 🥇 National Winner | ₹1,50,000 |
-| **Amazon ML Challenge 2025** | AIR **62 / 6223** | All-India Rank |
-| **HackXtreme 2025** | 24-Hour Hackathon | Participation & Experience |
-| **ProtoThon 1.0 – SRM IST** | 🥇 Winner | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | 🥇 Winner | ₹5,000 |
+| **Smart India Hackathon 2025** | 🥇 **National Winner** | ₹1,50,000 |
+| **ProtoThon 1.0 – SRM IST** | 🥇 **Winner** | ₹5,000 |
+| **Algo Vault – YUVA Techfest** | 🥇 **Winner** | ₹5,000 |
+| **Amazon ML Challenge 2025** | **AIR 62 / 6223** | All-India Rank |
 | **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981** | National Finalist |
-| **DigiGreen National Hackathon** | 🏆 4th Place | Top 10 / 556 |
+| **DigiGreen National Hackathon** | 🏆 **4th Place** | Top 10 / 556 |
 | **ICETETM’25 (International Conference)** | Research Paper Presented | International Presentation |
 | **INNOV FEST ’24 – SRM IST** | Project Deployment | Institutional Recognition |
-
+| **HackXtreme 2025** | 24-Hour Hackathon | Participation |
 
 ---
 
