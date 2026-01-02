@@ -11,7 +11,7 @@
 
 ---
 
-## ⚙️ Core Skills & Technologies
+## Core Skills & Technologies
 
 <table width="100%" align="center">
 <tr>
@@ -60,29 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats Dashboard
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=github_dark&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=github_dark&hide_border=true"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=github-dark&hide_border=true"
-    width="60%"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity (2026 Momentum)
+## Contribution Activity 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
@@ -90,7 +68,7 @@
 
 ---
 
-## 🏆 Achievements & Events
+## Achievements & Events
 
 | Event | Outcome | Prize / Recognition |
 |------|--------|---------------------|
