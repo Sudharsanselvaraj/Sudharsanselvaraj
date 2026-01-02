@@ -16,42 +16,39 @@
 <table width="100%" align="center">
 <tr>
 
-<!-- COLUMN 1 -->
 <td width="33%" valign="top">
 
 ### Programming & Systems
 <img src="https://skillicons.dev/icons?i=python,c,linux,ros&theme=dark"/>
 
-<br><br>
+<br>
 
 ### AI / ML / Computer Vision
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
 </td>
 
-<!-- COLUMN 2 -->
 <td width="33%" valign="top">
 
 ### Data, NLP & Speech
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
+<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" style="filter: invert(1);"/>
+<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" style="filter: invert(1);"/>
 
-<br><br>
+<br>
 
 ### Quantum & Tooling
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-<img height="44" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qiskit.svg"/>
+<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/qiskit.svg" style="filter: invert(1);"/>
 
 </td>
 
-<!-- COLUMN 3 -->
 <td width="33%" valign="top">
 
 ### Platforms & OS
 <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark"/>
 
-<br><br>
+<br>
 
 ### Systems & Hardware
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
@@ -83,7 +80,6 @@
   />
 </p>
 
-
 ---
 
 ## 📈 Contribution Activity (2026 Momentum)
@@ -104,8 +100,8 @@
 | **Amazon ML Challenge 2025** | **AIR 62 / 6223** | All-India Rank |
 | **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981** | National Finalist |
 | **DigiGreen National Hackathon** | 🏆 **4th Place** | Top 10 / 556 |
-| **ICETETM’25 (International Conference)** | Research Paper Presented | International Presentation |
-| **INNOV FEST ’24 – SRM IST** | Project Deployment | Institutional Recognition |
+| **ICETETM’25 (International Conference)** | Research Paper Presented | International |
+| **INNOV FEST ’24 – SRM IST** | Project Deployment | Institutional |
 | **HackXtreme 2025** | 24-Hour Hackathon | Participation |
 
 ---
