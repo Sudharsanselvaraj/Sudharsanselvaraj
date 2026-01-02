@@ -66,25 +66,23 @@
 ## 📊 GitHub Stats Dashboard
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=github_dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=github_dark&hide_border=true"
     width="48%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=dark&hide_border=true&cache_seconds=7200"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=github-dark&hide_border=true"
     width="60%"
   />
 </p>
+
 
 ---
 
