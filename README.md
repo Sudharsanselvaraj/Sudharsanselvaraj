@@ -9,8 +9,6 @@
   <b>GNSS-Denied Navigation · Embedded Intelligence · Autonomous Systems</b>
 </p>
 
----
-
 ## Core Skills & Technologies
 
 <table width="100%" align="center">
@@ -58,15 +56,11 @@
 </tr>
 </table>
 
----
-
 ## Contribution Activity 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
----
 
 ## Achievements & Events
 
@@ -81,8 +75,6 @@
 | **ICETETM’25 (International Conference)** | Research Paper Presented | International |
 | **INNOV FEST ’24 – SRM IST** | Project Deployment | Institutional |
 | **HackXtreme 2025** | 24-Hour Hackathon | Participation |
-
----
 
 ## 🌐 Connect With Me
 
