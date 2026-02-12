@@ -94,6 +94,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=90&section=footer"/>
 
 
-#fgzdnrbehjhevceheieurvrfdgfgdgrgadsdsd
+#fgzdnrbehjhevceheieurvrfdgfgdgrgadsdsdfdgfdgfdg
 
 
