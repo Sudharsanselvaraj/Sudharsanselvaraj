@@ -9,7 +9,58 @@
   <b>GNSS-Denied Navigation · Embedded Intelligence · Autonomous Systems</b>
 </p>
 
-## Core Skills & Technologies
+---
+
+# 🧠 Professional Analytics Dashboard
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sudharsanselvaraj&label=Profile%20Views&color=0A2A43&style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudharsanselvaraj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A2A43&title_color=58A6FF&icon_color=58A6FF"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=github_dark&hide_border=true&bg_color=0A2A43&title_color=58A6FF"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharsanselvaraj&theme=github-dark&bg_color=0A2A43&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF"/>
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudharsanselvaraj&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 💻 Contribution Heatmap
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🛠 Core Skills & Technologies
 
 <table width="100%" align="center">
 <tr>
@@ -56,27 +107,25 @@
 </tr>
 </table>
 
-## Contribution Activity 
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-## Achievements & Events
+# 🏅 Major Achievements
 
 | Event | Outcome | Prize / Recognition |
 |------|--------|---------------------|
-| **Smart India Hackathon 2025** | 🥇 **National Winner** | ₹1,50,000 |
-| **ProtoThon 1.0 – SRM IST** | 🥇 **Winner** | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | 🥇 **Winner** | ₹5,000 |
-| **Amazon ML Challenge 2025** | **AIR 62 / 6223** | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981** | National Finalist |
-| **DigiGreen National Hackathon** | 🏆 **4th Place** | Top 10 / 556 |
+| **Smart India Hackathon 2025** | 🥇 National Winner | ₹1,50,000 |
+| **ProtoThon 1.0 – SRM IST** | 🥇 Winner | ₹5,000 |
+| **Algo Vault – YUVA Techfest** | 🥇 Winner | ₹5,000 |
+| **Amazon ML Challenge 2025** | AIR 62 / 6223 | All-India Rank |
+| **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 | National Finalist |
+| **DigiGreen National Hackathon** | 🏆 4th Place | Top 10 / 556 |
 | **ICETETM’25 (International Conference)** | Research Paper Presented | International |
 | **INNOV FEST ’24 – SRM IST** | Project Deployment | Institutional |
 | **HackXtreme 2025** | 24-Hour Hackathon | Participation |
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
@@ -92,6 +141,3 @@
 
 <!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=90&section=footer"/>
-
-
-#jvkvkjkjfgkfvj
