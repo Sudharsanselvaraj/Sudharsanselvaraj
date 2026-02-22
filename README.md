@@ -68,7 +68,7 @@
 
 ---
 
-## 🏆 Achievements & Events
+## Achievements & Events
 
 | Event | Outcome | Prize / Recognition |
 |------|--------|---------------------|
@@ -84,7 +84,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
@@ -92,15 +92,7 @@
 
 ---
 
-## 💻 Top Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharsanselvaraj&layout=compact&theme=github_dark&hide_border=true&bg_color=0A2A43&title_color=58A6FF"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
