@@ -11,7 +11,7 @@
 
 ---
 
-## Core Skills & Technologies
+# Core Skills & Technologies
 
 <table width="100%" align="center">
 <tr>
@@ -60,7 +60,7 @@
 
 ---
 
-## Contribution Activity
+# Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
@@ -68,7 +68,7 @@
 
 ---
 
-## Achievements & Events
+# Achievements & Events
 
 | Event | Outcome | Prize / Recognition |
 |------|--------|---------------------|
@@ -84,7 +84,7 @@
 
 ---
 
-## Contribution Streak
+# Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SudharsanS00&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
@@ -92,7 +92,15 @@
 
 ---
 
-## Connect With Me
+# LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sudharsan_ML?theme=dark&font=Inter&ext=contest"/>
+</p>
+
+---
+
+# Connect With Me
 
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com">
