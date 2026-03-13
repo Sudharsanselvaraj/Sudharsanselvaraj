@@ -87,7 +87,7 @@
 # Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SudharsanS00&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 ---
