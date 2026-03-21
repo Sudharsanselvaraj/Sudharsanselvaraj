@@ -99,13 +99,22 @@
 ### Languages & Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css&theme=dark"/>
 </p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TF--IDF-0A2A43?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-1D3557?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Annotation-0D4C73?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Probability_%26_Statistics-22314E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linear_Algebra-0A2A43?style=flat-square&logoColor=white"/>
 </p>
 
 ---
