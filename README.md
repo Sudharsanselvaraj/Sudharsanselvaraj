@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <b>Agentic AI · LLM Infrastructure · Backend Systems · Embedded Intelligence</b>
+  <b>Agentic AI · LLM Infrastructure · Backend Systems · Embedded Intelligence · Quantum Computing</b>
 </p>
 
 <p align="center">
@@ -46,24 +46,35 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![IBM GenAI](https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white)
 
-**RAG Pipelines · MCP Integration**  
-**Fine-tuning LLMs · Prompt Engineering**  
-**Vector Databases · Multi-modal LLMs**  
+**RAG Pipelines · MCP Integration**
+**Fine-tuning LLMs · Prompt Engineering**
+**Vector Databases · Multi-modal LLMs**
 **Zero-Shot Inference · Semantic Embeddings**
+**Hybrid Embedding Ranking · Sentence-BERT**
+**Agentic Workflows · Tool Calling**
+**Generative AI with LLMs (AWS)**
+**IBM GenAI Engineering (16 courses)**
 
 </td>
 <td width="25%" valign="top">
 
 ### Backend & Infrastructure
 <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-003087?style=flat-square&logoColor=white)
 
-**Distributed Systems · Task Orchestration**  
-**CI/CD · REST APIs · Web Scraping**
+**Distributed Systems · Task Orchestration**
+**CI/CD Pipelines · REST APIs**
+**Microservices · API Design**
+**Web Scraping · Browser Automation**
+**AWS GenAI Workflows · Cloud Deployment**
 
 </td>
 <td width="25%" valign="top">
@@ -71,31 +82,86 @@
 ### AI / ML & Computer Vision
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
 
-**Vision Transformers (ViT) · GANs**  
-**EfficientNetB4 · DenseNet201**  
-**MediaPipe · NLP Pipelines**  
-**Transfer Learning · XGBoost**
+**Vision Transformers (ViT) · GANs · Advanced GANs**
+**EfficientNetB4 · DenseNet201 · Inception-ResNet V2**
+**MediaPipe · NLP Pipelines · Applied NLP**
+**Transfer Learning · Residual Networks**
+**Mixed-precision Training · Cosine Annealing**
+**Gradient Clipping · Tabular-text Fusion**
+**TF-IDF · Cosine Similarity · PyMuPDF**
+**Gaze Tracking · Pose Estimation · Face Detection**
+**Image Classification · Object Detection**
+**Deep Learning Specialization (DeepLearning.AI)**
 
 </td>
 <td width="25%" valign="top">
 
-### Embedded & Quantum
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark"/>
+### Embedded, Quantum & Geospatial
+<img src="https://skillicons.dev/icons?i=arduino,linux,raspberrypi&theme=dark"/>
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 
-**ESP32 · ESP32-CAM · Sensor Fusion**  
-**Shor's & Grover's Algorithms**  
-**GNSS-Denied Navigation**  
+**ESP32 · ESP32-CAM · ESP8266 · Arduino IDE**
+**Sensor Fusion · BME680 · IoT Dashboards**
+**Solar-Battery Systems · Wireless Comms**
+**Shor's & Grover's Algorithms**
+**Quantum Simulators · Cryptographic Impls**
+**Caesar Cipher (Quantum) · Quantum Algorithms**
+**GNSS-Denied Navigation · Motor Drivers**
 **Geospatial AI · DXF/CAD Parsing**
+**Spatial Analysis · Mapbox · OpenStreetMap**
+**NASA FIRMS/VIIRS · Orbital Mechanics**
+**LEO/MEO/GEO Tracking · Collision Forecasting**
+**Adaptive Cybersecurity · FSM Models**
+**Hybrid Deep Learning (Cybersecurity)**
 
 </td>
 </tr>
 </table>
+
+---
+
+### Languages & Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css&theme=dark"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linear_Algebra-0A2A43?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Probability_%26_Statistics-0A2A43?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-0A2A43?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Annotation-0A2A43?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SMAPE_%26_Eval_Metrics-0A2A43?style=flat-square&logoColor=white"/>
+</p>
+
+---
+
+## Achievements & Events
+
+| Event | Outcome | Prize / Recognition |
+|-------|---------|---------------------|
+| **Smart India Hackathon 2025** | 🥇 **National Winner** — first SRMIST Trichy team in 5 years | ₹1,50,000 |
+| **Amazon ML Challenge 2025** | **AIR 62 / 6,223 teams** | All-India Rank |
+| **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981 teams** — National Finalist | — |
+| **DigiGreen National Hackathon** | 🏆 **4th Place / 556+ teams** | Certificate of Recognition |
+| **ProtoThon 1.0 – SRM IST** | 🥇 **Winner** | ₹5,000 |
+| **Algo Vault – YUVA Techfest** | 🥇 **Winner** | ₹5,000 |
+| **ICETETM'25 – International Conference** | Research Paper Presented | International |
+| **INNOV FEST '24 – SRM IST** | Project Deployment | Institutional |
+| **HackXtreme 2025** | 24-Hour Hackathon | Participation |
 
 ---
 
@@ -124,22 +190,6 @@
 | **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
 | **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
 | **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
-
----
-
-## Achievements & Events
-
-| Event | Outcome | Prize / Recognition |
-|-------|---------|---------------------|
-| **Smart India Hackathon 2025** | 🥇 **National Winner** — first SRMIST Trichy team in 5 years | ₹1,50,000 |
-| **Amazon ML Challenge 2025** | **AIR 62 / 6,223 teams** | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981 teams** — National Finalist | — |
-| **DigiGreen National Hackathon** | 🏆 **4th Place / 556+ teams** | Certificate of Recognition |
-| **ProtoThon 1.0 – SRM IST** | 🥇 **Winner** | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | 🥇 **Winner** | ₹5,000 |
-| **ICETETM'25 – International Conference** | Research Paper Presented | International |
-| **INNOV FEST '24 – SRM IST** | Project Deployment | Institutional |
-| **HackXtreme 2025** | 24-Hour Hackathon | Participation |
 
 ---
 
