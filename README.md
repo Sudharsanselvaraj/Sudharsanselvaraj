@@ -167,7 +167,7 @@
 
 | Degree | Institution | Period | Grade |
 |--------|-------------|--------|-------|
-| **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | — |
+| **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O'|
 | **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
 
 ---
