@@ -46,22 +46,11 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![IBM GenAI](https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0A2A43?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Integration-1a1a2e?style=flat-square&logoColor=white)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning_LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-6B3FA0?style=flat-square&logoColor=white)
-![VectorDB](https://img.shields.io/badge/Vector_Databases-FF6B35?style=flat-square&logoColor=white)
-![Multimodal](https://img.shields.io/badge/Multi--modal_LLMs-412991?style=flat-square&logoColor=white)
-![ZeroShot](https://img.shields.io/badge/Zero--Shot_Inference-0A2A43?style=flat-square&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Semantic_Embeddings-1D3557?style=flat-square&logoColor=white)
-![SentenceBERT](https://img.shields.io/badge/Sentence--BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![HybridRank](https://img.shields.io/badge/Hybrid_Embedding_Ranking-0D4C73?style=flat-square&logoColor=white)
-![Agentic](https://img.shields.io/badge/Agentic_Workflows-1a1a2e?style=flat-square&logoColor=white)
-![ToolCalling](https://img.shields.io/badge/Tool_Calling-6B3FA0?style=flat-square&logoColor=white)
-![GenAIAWS](https://img.shields.io/badge/GenAI_with_LLMs_(AWS)-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![IBM GenAI](https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white)
 
 </td>
 <td width="25%" valign="top">
@@ -69,21 +58,11 @@
 ### Backend & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,docker&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![ReportLab](https://img.shields.io/badge/ReportLab-003087?style=flat-square&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-0A2A43?style=flat-square&logoColor=white)
-![DistSys](https://img.shields.io/badge/Distributed_Systems-1D3557?style=flat-square&logoColor=white)
-![TaskOrch](https://img.shields.io/badge/Task_Orchestration-37814A?style=flat-square&logoColor=white)
-![CICD](https://img.shields.io/badge/CI%2FCD_Pipelines-0A2A43?style=flat-square&logo=githubactions&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-0D4C73?style=flat-square&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1a1a2e?style=flat-square&logoColor=white)
-![WebScraping](https://img.shields.io/badge/Web_Scraping-43B02A?style=flat-square&logoColor=white)
-![BrowserAuto](https://img.shields.io/badge/Browser_Automation-2EAD33?style=flat-square&logoColor=white)
-![CloudDeploy](https://img.shields.io/badge/Cloud_Deployment-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 <td width="25%" valign="top">
@@ -97,58 +76,19 @@
 ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![ViT](https://img.shields.io/badge/Vision_Transformers_(ViT)-412991?style=flat-square&logoColor=white)
-![GANs](https://img.shields.io/badge/GANs_%26_Advanced_GANs-D00000?style=flat-square&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNetB4-0A2A43?style=flat-square&logoColor=white)
-![DenseNet](https://img.shields.io/badge/DenseNet201-1D3557?style=flat-square&logoColor=white)
-![InceptionResNet](https://img.shields.io/badge/Inception--ResNet_V2-0D4C73?style=flat-square&logoColor=white)
-![TransferLearning](https://img.shields.io/badge/Transfer_Learning-F7931E?style=flat-square&logoColor=white)
-![ResidualNet](https://img.shields.io/badge/Residual_Networks-337AB7?style=flat-square&logoColor=white)
-![MixedPrecision](https://img.shields.io/badge/Mixed--precision_Training-412991?style=flat-square&logoColor=white)
-![CosineAnneal](https://img.shields.io/badge/Cosine_Annealing-6B3FA0?style=flat-square&logoColor=white)
-![GradClip](https://img.shields.io/badge/Gradient_Clipping-D00000?style=flat-square&logoColor=white)
-![TFIDF](https://img.shields.io/badge/TF--IDF-0A2A43?style=flat-square&logoColor=white)
-![GazeTrack](https://img.shields.io/badge/Gaze_Tracking-0097A7?style=flat-square&logoColor=white)
-![PoseEst](https://img.shields.io/badge/Pose_Estimation-0D4C73?style=flat-square&logoColor=white)
-![FaceDetect](https://img.shields.io/badge/Face_Detection-1D3557?style=flat-square&logoColor=white)
-![ObjDetect](https://img.shields.io/badge/Object_Detection-00CCCC?style=flat-square&logoColor=white)
-![ImgClass](https://img.shields.io/badge/Image_Classification-337AB7?style=flat-square&logoColor=white)
-![NLPPipe](https://img.shields.io/badge/NLP_Pipelines-F7931E?style=flat-square&logoColor=white)
-![TabFusion](https://img.shields.io/badge/Tabular--text_Fusion-412991?style=flat-square&logoColor=white)
 
 </td>
 <td width="25%" valign="top">
 
 ### Embedded, Quantum & Geospatial
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=arduino,linux&theme=dark"/>
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white)
-![ESP32CAM](https://img.shields.io/badge/ESP32--CAM-003153?style=flat-square&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-003153?style=flat-square&logoColor=white)
-![BME680](https://img.shields.io/badge/BME680_Sensor-1D3557?style=flat-square&logoColor=white)
-![SensorFusion](https://img.shields.io/badge/Sensor_Fusion-22314E?style=flat-square&logoColor=white)
-![IoTDash](https://img.shields.io/badge/IoT_Dashboards-0097A7?style=flat-square&logoColor=white)
-![SolarBat](https://img.shields.io/badge/Solar--Battery_Systems-FFD21E?style=flat-square&logoColor=black)
-![WirelessComms](https://img.shields.io/badge/Wireless_Comms-0D4C73?style=flat-square&logoColor=white)
-![Shor](https://img.shields.io/badge/Shor's_Algorithm-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![Grover](https://img.shields.io/badge/Grover's_Algorithm-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![QuantumSim](https://img.shields.io/badge/Quantum_Simulators-1a1a2e?style=flat-square&logoColor=white)
-![CryptImpl](https://img.shields.io/badge/Cryptographic_Impls-22314E?style=flat-square&logoColor=white)
-![GNSS](https://img.shields.io/badge/GNSS--Denied_Navigation-0A2A43?style=flat-square&logoColor=white)
-![MotorDriver](https://img.shields.io/badge/Motor_Drivers-1D3557?style=flat-square&logoColor=white)
-![GeoAI](https://img.shields.io/badge/Geospatial_AI-2EAD33?style=flat-square&logoColor=white)
-![DXF](https://img.shields.io/badge/DXF%2FCAD_Parsing-0D4C73?style=flat-square&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
-![NASA](https://img.shields.io/badge/NASA_FIRMS%2FVIIRS-0B3D91?style=flat-square&logo=nasa&logoColor=white)
-![OrbitalMech](https://img.shields.io/badge/Orbital_Mechanics-0A2A43?style=flat-square&logoColor=white)
-![LEO](https://img.shields.io/badge/LEO%2FMEO%2FGEO_Tracking-1D3557?style=flat-square&logoColor=white)
-![Collision](https://img.shields.io/badge/Collision_Forecasting-D00000?style=flat-square&logoColor=white)
-![CyberSec](https://img.shields.io/badge/Adaptive_Cybersecurity-22314E?style=flat-square&logoColor=white)
-![FSM](https://img.shields.io/badge/FSM_Models-1a1a2e?style=flat-square&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white)
 
 </td>
 </tr>
@@ -156,23 +96,16 @@
 
 ---
 
-### Languages & Data Science
+### Languages & Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript&theme=dark"/>
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linear_Algebra-0A2A43?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Probability_%26_Statistics-0D4C73?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-1D3557?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Annotation-22314E?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/SMAPE_%26_Eval_Metrics-337AB7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cosine_Similarity-0A2A43?style=flat-square&logoColor=white"/>
 </p>
 
 ---
