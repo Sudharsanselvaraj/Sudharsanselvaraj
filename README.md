@@ -125,7 +125,7 @@
 |-------|---------|---------------------|
 | **Smart India Hackathon 2025** | 🥇 **National Winner** — first SRMIST Trichy team in 5 years | ₹1,50,000 |
 | **Amazon ML Challenge 2025** | **AIR 62 / 6,223 teams** | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981 teams** — National Finalist | — |
+| **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981 teams** — National Finalist | Internship Offer |
 | **DigiGreen National Hackathon** | 🏆 **4th Place / 556+ teams** | Certificate of Recognition |
 | **ProtoThon 1.0 – SRM IST** | 🥇 **Winner** | ₹5,000 |
 | **Algo Vault – YUVA Techfest** | 🥇 **Winner** | ₹5,000 |
