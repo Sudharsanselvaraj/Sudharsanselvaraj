@@ -1,6 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════
-     HEADER — single seamless banner, no overlap, no split gap
-═══════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&descSize=14&descColor=58A6FF&descAlignY=68&animation=fadeIn"/>
 </div>
@@ -30,21 +28,21 @@
 
 ## GitHub Metrics
 
-<!-- MAIN all-in-one panel (Simon Lecoq style) -->
+<!-- ROW 1: Main all-in-one overview panel -->
 <p align="center">
   <img width="100%" src="metrics.overview.svg"/>
 </p>
 
-<!-- ROW 2: Isometric Calendar + LeetCode -->
+<!-- ROW 2: Isometric Calendar (left) + Notable Contributions (right) -->
 <p align="center">
   <img width="49%" src="metrics.isocalendar.svg"/>
   &nbsp;
-  <img width="49%" src="metrics.leetcode.svg"/>
+  <img width="49%" src="metrics.notable.svg"/>
 </p>
 
-<!-- ROW 3: Notable Contributions + World Map -->
+<!-- ROW 3: LeetCode (left) + World Map (right) -->
 <p align="center">
-  <img width="49%" src="metrics.notable.svg"/>
+  <img width="49%" src="metrics.leetcode.svg"/>
   &nbsp;
   <img width="49%" src="metrics.worldmap.svg"/>
 </p>
