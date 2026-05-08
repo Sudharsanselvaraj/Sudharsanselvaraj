@@ -1,11 +1,16 @@
 <!-- HEADER — name on top row, subtitle on second row, no overlap -->
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=80&section=header&text=Sudharsan%20S&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D3A5C&height=36&section=header&text=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&fontSize=13&fontColor=58A6FF&fontAlignY=55&animation=fadeIn"/>
+
 </div>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integration;LLM+Systems+%7C+Backend+Infrastructure+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+Quantum+Computation;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
 </h3>
+
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com"><img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/"><img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,32 +19,32 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
 > **Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure. Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
 
-- Building production-grade autonomous AI systems — not just notebooks
-- **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
-- Bridging AI, backend infrastructure, computer vision, and embedded hardware
-- Research presented at **ICETETM'25** · **CGPA: 9.667**
+- 🚀 Building production-grade autonomous AI systems — not just notebooks
+- 🏆 **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
+- 🔗 Bridging AI, backend infrastructure, computer vision, and embedded hardware
+- 📄 Research presented at **ICETETM'25** · **CGPA: 9.667**
 
 ---
 
-## GitHub Metrics
+## 📊 GitHub Metrics
 
-<!-- ═══ MAIN ALL-IN-ONE PANEL (Simon Lecoq style) ═══ -->
+<!-- MAIN all-in-one panel -->
 <p align="center">
   <img width="100%" src="metrics.overview.svg"/>
 </p>
 
-<!-- ═══ ROW 2: Isometric Calendar + LeetCode ═══ -->
+<!-- ROW 2: Isometric Calendar + LeetCode side by side -->
 <p align="center">
   <img width="49%" src="metrics.isocalendar.svg"/>
   &nbsp;
   <img width="49%" src="metrics.leetcode.svg"/>
 </p>
 
-<!-- ═══ ROW 3: Achievements + Notable Contributions ═══ -->
+<!-- ROW 3: Achievements + Notable Contributions side by side -->
 <p align="center">
   <img width="49%" src="metrics.achievements.svg"/>
   &nbsp;
@@ -48,7 +53,7 @@
 
 ---
 
-## Core Skills & Technologies
+## ⚙️ Core Skills & Technologies
 
 <table width="100%" align="center">
 <tr>
@@ -69,7 +74,7 @@
 </td>
 <td width="25%" valign="top">
 
-**Backend & Infrastructure**
+**🛠️ Backend & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,docker&theme=dark"/>
 <img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
@@ -81,7 +86,7 @@
 </td>
 <td width="25%" valign="top">
 
-**AI / ML & Computer Vision**
+**👁️ AI / ML & Computer Vision**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
@@ -94,7 +99,7 @@
 </td>
 <td width="25%" valign="top">
 
-**Embedded, Quantum & Geospatial**
+**⚡ Embedded, Quantum & Geospatial**
 
 <img src="https://skillicons.dev/icons?i=arduino,linux&theme=dark"/>
 
@@ -129,21 +134,21 @@
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 | Event | Outcome | Prize |
 |-------|---------|-------|
-| **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
-| **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
-| **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate |
-| **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
-| **ICETETM'25** | Research Paper Presented | International |
+| 🥇 **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
+| 🎯 **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
+| 🚀 **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
+| 🏆 **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate |
+| 🥇 **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
+| 🥇 **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
+| 📄 **ICETETM'25** | Research Paper Presented | International |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -160,23 +165,23 @@
 
 ---
 
-## Experience
+## 💼 Experience
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Present | Remote |
-| **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
-| **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
-| **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
+| 🤖 **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Present | Remote |
+| ⚛️ **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
+| 🤖 **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
+| 📊 **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
 
 ---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Period | Grade |
 |--------|-------------|--------|-------|
-| **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O' Grade |
-| **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
+| ⚛️ **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O' Grade |
+| 💻 **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
 
 ---
 
