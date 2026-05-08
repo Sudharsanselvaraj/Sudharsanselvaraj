@@ -1,10 +1,11 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&descSize=14&descColor=58A6FF&animation=fadeIn"/>
-
+<!-- HEADER — name on top row, subtitle on second row, no overlap -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=80&section=header&text=Sudharsan%20S&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D3A5C&height=36&section=header&text=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&fontSize=13&fontColor=58A6FF&fontAlignY=55&animation=fadeIn"/>
+</div>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integration;LLM+Systems+%7C+Backend+Infrastructure+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+Quantum+Computation;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integration;LLM+Systems+%7C+Backend+Infrastructure+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+Quantum+Computation;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
 </h3>
-
 <p align="center">
   <a href="mailto:sudharsan97511@gmail.com"><img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/"><img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
