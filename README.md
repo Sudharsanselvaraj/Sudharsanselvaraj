@@ -49,86 +49,43 @@
 
 ---
 
-## Core Skills & Technologies
+## Tools & Languages
 
-<table width="100%" align="center">
-<tr>
-<td width="25%" valign="top">
-
-**Agentic AI & LLMs**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-![LangChain](https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0A2A43?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Integration-1a1a2e?style=flat-square&logoColor=white)
-![IBM GenAI](https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,docker&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
-
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-**AI / ML & Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-**Embedded, Quantum & Geospatial**
-
-<img src="https://skillicons.dev/icons?i=arduino,linux&theme=dark"/>
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![NASA](https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-**Languages & Data**
+<!-- All icons in compact strips, no labels, dark theme -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,pytorch,tensorflow,opencv,sklearn,fastapi,flask,postgresql,redis,docker,aws,nginx,git,github,linux,selenium,arduino,raspberrypi,nextjs,react,tailwind,vite,vercel,sqlite,vscode,postman,figma&theme=dark&perline=18"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TF--IDF-0A2A43?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-1D3557?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linear_Algebra-0A2A43?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-072654?style=flat-square&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
 </p>
-
----
 
 ## Achievements
 
@@ -186,3 +143,42 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=40&section=footer"/>
+
+
+## ALTERNATIVE — Compact Single Strip (like image 2 style)
+
+<!-- All icons in compact strips, no labels, dark theme -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,pytorch,tensorflow,opencv,sklearn,openai,fastapi,flask,postgresql,redis,docker,aws,nginx,git,github,linux,selenium,arduino,raspberrypi,nextjs,react,tailwind,vite,vercel,sqlite,vscode,postman,figma&theme=dark&perline=18"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-072654?style=flat-square&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
+</p>
