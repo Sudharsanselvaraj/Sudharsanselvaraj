@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch:          # allows manual trigger
   push:
     branches: ["main"]
 
@@ -15,107 +15,81 @@ jobs:
 
     steps:
 
-      # ── OVERVIEW: header + habits + languages + topics ──────────────
-      - name: Overview
+      # ── OVERVIEW ──────────────────────────────────────────────────────────
+      - name: Overview metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.overview.svg
-          user: Sudharsanselvaraj
-          template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
+          base_indepth: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
           config_timezone: Asia/Kolkata
           config_display: large
 
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          plugin_habits_charts_type: bar
-
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_threshold: 0%
-
-          plugin_topics: yes
-          plugin_topics_limit: 24
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-
-          plugin_lines: yes
-
-      # ── ISOMETRIC CALENDAR ─────────────────────────────────────────
-      - name: Isometric Calendar
+      # ── ISOMETRIC CALENDAR ────────────────────────────────────────────────
+      - name: Isometric commit calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.isocalendar.svg
-          user: Sudharsanselvaraj
-          template: classic
           base: ""
-          config_timezone: Asia/Kolkata
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
 
-      # ── WORLD MAP ──────────────────────────────────────────────────
-      # The map shows stargazers' locations geocoded via Google Maps API
-      # Your experience locations (HK, SF, Bangalore) need Google token
-      - name: Stargazers World Map
+      # ── WORLD MAP ─────────────────────────────────────────────────────────
+      - name: Stargazers world map
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.worldmap.svg
-          user: Sudharsanselvaraj
-          template: classic
           base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           config_timezone: Asia/Kolkata
 
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAPS_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
-
-      # ── LEETCODE ───────────────────────────────────────────────────
-      - name: LeetCode
+      # ── LEETCODE ──────────────────────────────────────────────────────────
+      - name: LeetCode stats
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           filename: metrics.leetcode.svg
-          user: Sudharsanselvaraj
-          template: classic
           base: ""
-          config_timezone: Asia/Kolkata
-
           plugin_leetcode: yes
           plugin_leetcode_user: Sudharsan_ML
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_limit_recent: 5
+          config_timezone: Asia/Kolkata
 
-      # ── ACHIEVEMENTS (fixed — needs older metrics version) ─────────
+      # ── ACHIEVEMENTS ──────────────────────────────────────────────────────
       - name: Achievements
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.achievements.svg
-          user: Sudharsanselvaraj
-          template: classic
           base: ""
-          config_timezone: Asia/Kolkata
-
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 0
-          plugin_achievements_ignored: >-
-            octonaut
+          config_timezone: Asia/Kolkata
+
+      # ── NOTABLE CONTRIBUTIONS ─────────────────────────────────────────────
+      - name: Notable contributions
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.notable.svg
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          config_timezone: Asia/Kolkata
