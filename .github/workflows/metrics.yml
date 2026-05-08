@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:        # Manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: ["main"]
 
@@ -15,11 +15,8 @@ jobs:
 
     steps:
 
-      # ─────────────────────────────────────────────────────────────────
-      # SECTION 1 — HEADER / OVERVIEW (like Simon Lecoq's top card)
-      # Shows: profile info, repos, stars, commits, languages, habits
-      # ─────────────────────────────────────────────────────────────────
-      - name: Overview — Header + Habits + Languages
+      # ── OVERVIEW: header + habits + languages + topics ──────────────
+      - name: Overview
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,38 +25,33 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          config_display: large
 
-          # Coding habits — commit activity by hour/day + language breakdown
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          plugin_habits_charts_type: bar
 
-          # Languages used across repos
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 6
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 0%
 
-          # Topics/technologies starred
           plugin_topics: yes
-          plugin_topics_limit: 20
+          plugin_topics_limit: 24
           plugin_topics_mode: icons
           plugin_topics_sort: stars
 
-      # ─────────────────────────────────────────────────────────────────
-      # SECTION 2 — ISOMETRIC COMMIT CALENDAR
-      # The beautiful 3D commit calendar with streaks and stats
-      # ─────────────────────────────────────────────────────────────────
+          plugin_lines: yes
+
+      # ── ISOMETRIC CALENDAR ─────────────────────────────────────────
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -71,13 +63,11 @@ jobs:
           config_timezone: Asia/Kolkata
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year   # full-year or half-year
+          plugin_isocalendar_duration: full-year
 
-      # ─────────────────────────────────────────────────────────────────
-      # SECTION 3 — WORLD MAP (your key feature!)
-      # Shows stargazers origins on a world map
-      # Marked locations: India (Dindigul/Bangalore), Hong Kong, San Francisco
-      # ─────────────────────────────────────────────────────────────────
+      # ── WORLD MAP ──────────────────────────────────────────────────
+      # The map shows stargazers' locations geocoded via Google Maps API
+      # Your experience locations (HK, SF, Bangalore) need Google token
       - name: Stargazers World Map
         uses: lowlighter/metrics@latest
         with:
@@ -94,11 +84,8 @@ jobs:
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAPS_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
 
-      # ─────────────────────────────────────────────────────────────────
-      # SECTION 4 — LEETCODE STATS
-      # Shows problems solved, difficulty breakdown, recent submissions
-      # ─────────────────────────────────────────────────────────────────
-      - name: LeetCode Stats
+      # ── LEETCODE ───────────────────────────────────────────────────
+      - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -114,12 +101,9 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_limit_recent: 5
 
-      # ─────────────────────────────────────────────────────────────────
-      # SECTION 5 — ACHIEVEMENTS
-      # Unlockable achievement badges based on GitHub activity
-      # ─────────────────────────────────────────────────────────────────
+      # ── ACHIEVEMENTS (fixed — needs older metrics version) ─────────
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.achievements.svg
@@ -129,25 +113,9 @@ jobs:
           config_timezone: Asia/Kolkata
 
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 0
-
-      # ─────────────────────────────────────────────────────────────────
-      # SECTION 6 — NOTABLE CONTRIBUTIONS
-      # Highlights contributions to other repositories
-      # ─────────────────────────────────────────────────────────────────
-      - name: Notable Contributions
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.notable.svg
-          user: Sudharsanselvaraj
-          template: classic
-          base: ""
-          config_timezone: Asia/Kolkata
-
-          plugin_notable: yes
-          plugin_notable_filter_role: contributor
-          plugin_notable_repositories: yes
+          plugin_achievements_ignored: >-
+            octonaut
