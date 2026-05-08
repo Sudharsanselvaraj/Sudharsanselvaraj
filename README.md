@@ -172,29 +172,29 @@
 
 ---
 
-## Contribution Activity
+## GitHub Metrics
 
+### Overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="metrics.overview.svg" alt="Metrics Overview"/>
 </p>
 
----
-
-## Contribution Streak
-
+### Isometric Commit Calendar
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img src="metrics.isocalendar.svg" alt="Isometric Calendar"/>
 </p>
 
----
-
-## LeetCode Stats
-
+### Stargazers World Map
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sudharsan_ML?theme=dark&font=Inter&ext=contest"/>
+  <img src="metrics.worldmap.svg" alt="World Map"/>
 </p>
 
----
+### LeetCode
+<p align="center">
+  <img src="metrics.leetcode.svg" alt="LeetCode Stats"/>
+</p>
 
-<!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=60&section=footer"/>
+### Achievements
+<p align="center">
+  <img src="metrics.achievements.svg" alt="Achievements"/>
+</p>
