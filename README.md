@@ -5,9 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? </a>
 </div>
 <!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&descSize=14&descColor=58A6FF&descAlignY=68&animation=fadeIn"/>
-</div>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integration;LLM+Systems+%7C+Backend+Infrastructure+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+Quantum+Computation;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
