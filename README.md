@@ -17,18 +17,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 > **Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure. Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
 
-- 🚀 Building production-grade autonomous AI systems — not just notebooks
-- 🏆 **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
-- 🔗 Bridging AI, backend infrastructure, computer vision, and embedded hardware
-- 📄 Research presented at **ICETETM'25** · **CGPA: 9.667**
+- Building production-grade autonomous AI systems — not just notebooks
+- **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
+- Bridging AI, backend infrastructure, computer vision, and embedded hardware
+- Research presented at **ICETETM'25** · **CGPA: 9.667**
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <!-- MAIN all-in-one panel (Simon Lecoq style) -->
 <p align="center">
@@ -51,13 +51,13 @@
 
 ---
 
-## ⚙️ Core Skills & Technologies
+## Core Skills & Technologies
 
 <table width="100%" align="center">
 <tr>
 <td width="25%" valign="top">
 
-**🤖 Agentic AI & LLMs**
+**Agentic AI & LLMs**
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
@@ -72,7 +72,7 @@
 </td>
 <td width="25%" valign="top">
 
-**🛠️ Backend & Infrastructure**
+**Backend & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,docker&theme=dark"/>
 <img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
@@ -84,7 +84,7 @@
 </td>
 <td width="25%" valign="top">
 
-**👁️ AI / ML & Computer Vision**
+**AI / ML & Computer Vision**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
@@ -97,7 +97,7 @@
 </td>
 <td width="25%" valign="top">
 
-**⚡ Embedded, Quantum & Geospatial**
+**Embedded, Quantum & Geospatial**
 
 <img src="https://skillicons.dev/icons?i=arduino,linux&theme=dark"/>
 
@@ -132,21 +132,21 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | Event | Outcome | Prize |
 |-------|---------|-------|
-| 🥇 **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
-| 🎯 **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
-| 🚀 **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
-| 🏆 **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate |
-| 🥇 **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
-| 🥇 **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
-| 📄 **ICETETM'25** | Research Paper Presented | International |
+| **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
+| **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
+| **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
+| **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate |
+| **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
+| **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
+| **ICETETM'25** | Research Paper Presented | International |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -163,23 +163,23 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| 🤖 **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Present | Remote |
-| ⚛️ **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
-| 🤖 **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
-| 📊 **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
+| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Present | Remote |
+| **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
+| **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
+| **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Period | Grade |
 |--------|-------------|--------|-------|
-| ⚛️ **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O' Grade |
-| 💻 **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
+| **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O' Grade |
+| **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
 
 ---
 
