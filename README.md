@@ -51,13 +51,23 @@
 
 ## Tools & Languages
 
-<!-- All icons in compact strips, no labels, dark theme -->
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,pytorch,tensorflow,opencv,sklearn,fastapi,flask,postgresql,redis,docker,aws,nginx,git,github,linux,selenium,arduino,raspberrypi,nextjs,react,tailwind,vite,vercel,sqlite,vscode,postman,figma&theme=dark&perline=18"/>
+
+  <!-- TOP ROW -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,pytorch,tensorflow,opencv,sklearn,fastapi,flask,postgresql,redis,docker,aws&theme=dark&perline=18"/>
+
+  <br/><br/>
+
+  <!-- SECOND ROW -->
+  <img src="https://skillicons.dev/icons?i=nginx,git,github,linux,selenium,arduino,raspberrypi,nextjs,react,tailwind,vite,vercel,sqlite,vscode,postman,figma&theme=dark&perline=16"/>
+
 </p>
 
+<br/>
+
 <p align="center">
+
+  <!-- BADGES ROW 1 -->
   <img src="https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -72,6 +82,10 @@
   <img src="https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+
+  <br/>
+
+  <!-- BADGES ROW 2 -->
   <img src="https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
@@ -85,6 +99,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
+
 </p>
 
 ## Achievements
@@ -137,11 +152,3 @@
 | **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudharsanselvaraj&color=0D4C73&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=40&section=footer"/>
-
-
