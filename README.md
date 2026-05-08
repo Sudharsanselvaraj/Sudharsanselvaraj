@@ -1,10 +1,8 @@
-<!-- HEADER — name on top row, subtitle on second row, no overlap -->
+<!-- ═══════════════════════════════════════════════════════════
+     HEADER — single seamless banner, no overlap, no split gap
+═══════════════════════════════════════════════════════════ -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=80&section=header&text=Sudharsan%20S&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D3A5C&height=36&section=header&text=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&fontSize=13&fontColor=58A6FF&fontAlignY=55&animation=fadeIn"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=110&section=header&text=Sudharsan%20S&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Embedded%20Intelligence&descSize=14&descColor=58A6FF&descAlignY=68&animation=fadeIn"/>
 </div>
 
 <h3 align="center">
@@ -12,8 +10,8 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:sudharsan97511@gmail.com"><img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/"><img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sudharsan97511@gmail.com"><img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/"><img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/Sudharsanselvaraj"><img src="https://img.shields.io/badge/GitHub-0A2A43?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -32,23 +30,23 @@
 
 ## 📊 GitHub Metrics
 
-<!-- MAIN all-in-one panel -->
+<!-- MAIN all-in-one panel (Simon Lecoq style) -->
 <p align="center">
   <img width="100%" src="metrics.overview.svg"/>
 </p>
 
-<!-- ROW 2: Isometric Calendar + LeetCode side by side -->
+<!-- ROW 2: Isometric Calendar + LeetCode -->
 <p align="center">
   <img width="49%" src="metrics.isocalendar.svg"/>
   &nbsp;
   <img width="49%" src="metrics.leetcode.svg"/>
 </p>
 
-<!-- ROW 3: Achievements + Notable Contributions side by side -->
+<!-- ROW 3: Notable Contributions + World Map -->
 <p align="center">
-  <img width="49%" src="metrics.achievements.svg"/>
-  &nbsp;
   <img width="49%" src="metrics.notable.svg"/>
+  &nbsp;
+  <img width="49%" src="metrics.worldmap.svg"/>
 </p>
 
 ---
