@@ -26,35 +26,56 @@
 
 ## 📊 GitHub Metrics
 
-### Overview
-<p align="center">
-  <img width="100%" src="metrics.overview.svg"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
 
-### Isometric Commit Calendar
-<p align="center">
-  <img width="100%" src="metrics.isocalendar.svg"/>
-</p>
+**Overview**
 
-### Stargazers World Map
-<p align="center">
-  <img width="100%" src="metrics.worldmap.svg"/>
-</p>
+<img src="metrics.overview.svg" width="100%"/>
 
-### LeetCode
-<p align="center">
-  <img width="100%" src="metrics.leetcode.svg"/>
-</p>
+  </td>
+    <td width="50%" align="center" valign="top">
 
-### Achievements
-<p align="center">
-  <img width="100%" src="metrics.achievements.svg"/>
-</p>
+**Isometric Commit Calendar**
 
-### Notable Contributions
-<p align="center">
-  <img width="100%" src="metrics.notable.svg"/>
-</p>
+<img src="metrics.isocalendar.svg" width="100%"/>
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+**LeetCode**
+
+<img src="metrics.leetcode.svg" width="100%"/>
+
+  </td>
+    <td width="50%" align="center" valign="top">
+
+**Achievements**
+
+<img src="metrics.achievements.svg" width="100%"/>
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+**Notable Contributions**
+
+<img src="metrics.notable.svg" width="100%"/>
+
+  </td>
+    <td width="50%" align="center" valign="top">
+
+**Stargazers World Map**
+
+<img src="metrics.worldmap.svg" width="100%"/>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
