@@ -15,28 +15,12 @@
 
 ## About Me
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="4" style="background:#58A6FF"></td>
-<td width="16"></td>
-<td>
+> **Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure. Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
 
-**Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure.
-Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-| | |
-|---|---|
-|  Building production-grade autonomous AI systems — not just notebooks |
-|  **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025 |
-|  Bridging AI, backend infrastructure, computer vision, and embedded hardware |
-|  Research presented at **ICETETM'25** (International Conference) · **CGPA: 9.352** |
-
+- Building production-grade autonomous AI systems — not just notebooks
+- **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
+- Bridging AI, backend infrastructure, computer vision, and embedded hardware
+- Research presented at **ICETETM'25** (International Conference) · **CGPA: 9.667**
 ---
 
 ## Tools & Languages
