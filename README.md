@@ -1,11 +1,5 @@
-<div align="center">
-    <img width=300 src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? </a>
-</div>
-<!-- HEADER -->
-
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff"/>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integration;LLM+Systems+%7C+Backend+Infrastructure+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+Quantum+Computation;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
@@ -21,30 +15,60 @@
 
 ## About Me
 
-> **Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure. Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="4" style="background:#58A6FF"></td>
+<td width="16"></td>
+<td>
 
-- Building production-grade autonomous AI systems — not just notebooks
-- **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
-- Bridging AI, backend infrastructure, computer vision, and embedded hardware
-- Research presented at **ICETETM'25** · **CGPA: 9.667**
+**Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure.
+Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| | |
+|---|---|
+|  Building production-grade autonomous AI systems — not just notebooks |
+|  **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025 |
+|  Bridging AI, backend infrastructure, computer vision, and embedded hardware |
+|  Research presented at **ICETETM'25** (International Conference) · **CGPA: 9.352** |
+
+---
+
+## Tools & Languages
+
+<!-- ── ROW 1: Languages + Core ML + Backend ── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,pytorch,tensorflow,opencv,sklearn,fastapi,flask,postgresql,redis,docker,aws&theme=dark&perline=18"/>
+</p>
+
+<!-- ── ROW 2: DevOps + Embedded + Frontend + Tools ── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,git,github,linux,selenium,arduino,raspberrypi,nextjs,react,tailwind,vite,vercel,sqlite,vscode,postman,figma&theme=dark&perline=16"/>
+</p>
+
+<br/>
+
+<!-- ── ICON-ONLY BADGES: LLM / Agentic / Infra / Geospatial ── -->
 
 ---
 
 ## GitHub Metrics
 
-<!-- ROW 1: Main all-in-one overview panel -->
 <p align="center">
   <img width="100%" src="metrics.overview.svg"/>
 </p>
 
-<!-- ROW 2: Isometric Calendar (left) + Notable Contributions (right) -->
 <p align="center">
   <img width="49%" src="metrics.isocalendar.svg"/>
   &nbsp;
   <img width="49%" src="metrics.notable.svg"/>
 </p>
 
-<!-- ROW 3: LeetCode (left) + World Map (right) -->
 <p align="center">
   <img width="49%" src="metrics.leetcode.svg"/>
   &nbsp;
@@ -53,69 +77,55 @@
 
 ---
 
-## Tools & Languages
-
-<p align="center">
-
-  <!-- TOP ROW -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,bash,pytorch,tensorflow,opencv,sklearn,fastapi,flask,postgresql,redis,docker,aws&theme=dark&perline=18"/>
-
-  <br/><br/>
-
-  <!-- SECOND ROW -->
-  <img src="https://skillicons.dev/icons?i=nginx,git,github,linux,selenium,arduino,raspberrypi,nextjs,react,tailwind,vite,vercel,sqlite,vscode,postman,figma&theme=dark&perline=16"/>
-
-</p>
-
-<br/>
-
-<p align="center">
-
-  <!-- BADGES ROW 1 -->
-  <img src="https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-333333?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-072654?style=flat-square&logo=razorpay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-
-  <br/>
-
-  <!-- BADGES ROW 2 -->
-  <img src="https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
-
-</p>
-
 ## Achievements
 
 | Event | Outcome | Prize |
 |-------|---------|-------|
-| **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
+| **Smart India Hackathon 2025** | 🥇 National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
 | **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
 | **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
-| **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate |
-| **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
+| **DigiGreen National Hackathon** | 🏆 4th Place / 556+ teams | Certificate |
+| **ProtoThon 1.0 – SRM IST** | 🥇 Winner | ₹5,000 |
+| **Algo Vault – YUVA Techfest** | 🥇 Winner | ₹5,000 |
 | **ICETETM'25** | Research Paper Presented | International |
 
 ---
+
+## Featured Projects
+
+| Project | Description | Stack | Recognition |
+|---------|-------------|-------|-------------|
+| **[Applivo](https://github.com/Applivo-Agent/Applivo-Containerized-Platform-Infrastructure)** | Production SaaS — autonomous AI career agent: scrapes jobs, LLM analysis, ATS resume gen, auto-apply | FastAPI · Redis · Celery · ChromaDB · OpenAI · Docker | Live at applivo.in |
+| **[AutoStream](https://github.com/Sudharsanselvaraj/AutoStream-Semantic-RAG-Powered-Agentic-Interaction-Engine)** | LangGraph lead-gen agent — deterministic routing, 5-stage FSM, RAG, WhatsApp webhook | LangGraph · Claude 3 Haiku · FastAPI | Production |
+| **[ALKF Master Land Plan API](https://github.com/Sudharsanselvaraj/ALKF-Master-Land-Plan-API)** | Geospatial API: lot ID → 1m boundary sampling, view/noise analysis, DXF export | Python · OpenCV · GeoPandas · Flask | ALKF Internship |
+| **[PERSEUS-Net](https://github.com/ACE-Companion/PERSEUS-Net-Perception-Environment-Reasoning-System-LLM-Vision)** | Edge AI perception — 3-tier async: YOLOv8 + InsightFace + VLM + ANP gateway | Python · YOLOv8 · Claude · Ollama | Production |
+| **[OrbitXOS](https://github.com/Sudharsanselvaraj/OrbitXOS)** | Real-time space debris & satellite tracking — LEO/MEO/GEO + collision forecasting | Python · SGP4 · 3D Earth Viz | Top 5 / 981 |
+| **[GHG-FuseNet](https://github.com/Sudharsanselvaraj/GHG-API)** | GHG forecasting — CO₂ R²=0.94, NO₂ R²=0.89 fusing NASA FIRMS + Open-Meteo | FastAPI · Random Forest | 4th / 556 teams |
+| **[WQ Vision](https://github.com/Sudharsanselvaraj/wqvision-testing-kit)** | Embedded AI water quality kit — ESP32-CAM colorimetric strip analysis | OpenCV · FastAPI · ESP32-CAM | 🥇 Protothon 1.0 |
+
+---
+
+## Experience & Education
+
+| Role | Company | Period |
+|------|---------|--------|
+| **ML Engineer Intern** | ALKF, Hong Kong (Remote) | Jan 2026 – Present |
+| **Quantum Computation Intern** | NIT Trichy (On-site) | Jun 2025 – Jul 2025 |
+| **Robotics Software Engineer** | Persist Ventures, SF (Remote) | Dec 2024 – Feb 2025 |
+| **Data Analyst** | Indika AI, Bengaluru (Remote) | Jul 2024 – Sep 2024 |
+
+| Degree | Institution | Grade |
+|--------|-------------|-------|
+| **BTech Honours — Quantum Computation** | SRMIST, Trichy · Jan 2025 – May 2027 | O |
+| **BTech CSE** | SRMIST, Trichy · Sep 2023 – Mar 2027 | **9.352 CGPA** |
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=60&section=footer"/>
