@@ -156,7 +156,8 @@
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Present | Remote |
+| **AI Engineer** | Hooman Digital, Kolkata | Jun 2026 – Present | Fulltime |
+| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Apr 2026 | Remote |
 | **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
 | **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
 | **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
@@ -168,7 +169,7 @@
 | Degree | Institution | Period | Grade |
 |--------|-------------|--------|-------|
 | **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O'|
-| **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
+| **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.47 CGPA** |
 
 ---
 
