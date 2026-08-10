@@ -4,7 +4,7 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Agentic+AI+Engineer;LLM+Systems+%26+Backend+Infrastructure;RAG+Pipelines+%7C+MCP+Integration+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+IoT;GNSS-Denied+Navigation+%7C+Autonomous+Systems;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
 </h2>
-
+ 
 <p align="center">
   <b>Agentic AI · LLM Infrastructure · Backend Systems · Embedded Intelligence · Quantum Computing</b>
 </p>
