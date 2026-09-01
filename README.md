@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/main/game.gif" width="800"/>
-</p>
-
 # Sudharsan S
 
 <p align="center">
@@ -9,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineering · Agentic AI · LLM Systems · Backend Infrastructure · Autonomous Systems</b>
+  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/main/game.gif" width="800"/>
 </p>
 
 ---
