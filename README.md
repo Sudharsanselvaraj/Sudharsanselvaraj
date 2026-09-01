@@ -57,6 +57,7 @@ Building production-grade AI systems across agentic workflows, distributed backe
 
 | Event | Outcome | Prize / Recognition |
 |-------|---------|---------------------|
+| **PSB CyberShield National Hackathon 2026** | Top 9 / 2,986 teams — Grand Finale at IIT Hyderabad | Bank of India · IIT Hyderabad · Indian Ministry of Finance |
 | **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
 | **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
 | **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
