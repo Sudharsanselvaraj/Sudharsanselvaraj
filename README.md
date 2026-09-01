@@ -34,6 +34,95 @@
 
 ---
 
+<h2 align="left" id="fav-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /></a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#fav-tech"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
+      <br>CSS
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Core Skills & Technologies
 
 <table width="100%" align="center">
