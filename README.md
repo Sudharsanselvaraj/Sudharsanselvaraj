@@ -96,9 +96,3 @@ Building production-grade AI systems across agentic workflows, distributed backe
 </p>
 
 ---
-
-## LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sudharsan_ML?theme=dark&font=Inter&ext=contest"/>
-</p>
