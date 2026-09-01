@@ -19,30 +19,22 @@ Building production-grade AI systems across agentic workflows, distributed backe
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a><br>PyTorch</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a><br>TensorFlow</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /></a><br>NumPy</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="scikit-learn" /></a><br>scikit-learn</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /></a><br>Pandas</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=huggingface" width="48" height="48" alt="HuggingFace" /></a><br>HuggingFace</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a><br>Redis</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a><br>GitHub</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /></a><br>OpenCV</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /></a><br>Jupyter</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" alt="Playwright" /></a><br>Playwright</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" /></a><br>Selenium</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a><br>Arduino</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=qiskit" width="48" height="48" alt="Qiskit" /></a><br>Qiskit</td>
   </tr>
 </table>
 
