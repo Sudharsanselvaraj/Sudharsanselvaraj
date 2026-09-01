@@ -12,8 +12,6 @@ Building production-grade AI systems across agentic workflows, distributed backe
 
 ## AI Engineering Stack
 
-### Programming & Core
-
 <table>
   <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><br>Python</td>
@@ -22,99 +20,51 @@ Building production-grade AI systems across agentic workflows, distributed backe
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/><br>SQL</td>
-  </tr>
-</table>
-
-### AI / Machine Learning
-
-<table>
-  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a><br>PyTorch</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a><br>TensorFlow</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/><br>scikit-learn</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/><br>XGBoost</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/><br>Keras</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>NumPy</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>Pandas</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/><br>Matplotlib</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /></a><br>Jupyter</td>
-  </tr>
-</table>
-
-### Generative AI / LLM Engineering
-
-<table>
-  <tr>
     <td align="center" width="96"><img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/><br>OpenAI</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white"/><br>LangChain</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/><br>HuggingFace</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/><br>ChromaDB</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/RAG_Pipelines-0A2A43?style=flat-square&logoColor=white"/><br>RAG</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/MCP_Integration-1a1a2e?style=flat-square&logoColor=white"/><br>MCP</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white"/><br>IBM GenAI</td>
-  </tr>
-</table>
-
-### Backend & Distributed Systems
-
-<table>
-  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a><br>Redis</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/><br>Celery</td>
-  </tr>
-</table>
-
-### MLOps / Infrastructure / Deployment
-
-<table>
-  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a><br>GitHub</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/><br>Playwright</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/><br>Selenium</td>
   </tr>
-</table>
-
-### Computer Vision
-
-<table>
   <tr>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/><br>Selenium</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /></a><br>OpenCV</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white"/><br>YOLOv8</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/><br>MediaPipe</td>
-  </tr>
-</table>
-
-### Embedded / Robotics / Edge AI
-
-<table>
-  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a><br>Arduino</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white"/><br>ESP32</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/><br>ROS</td>
-  </tr>
-</table>
-
-### Geospatial / Autonomous Systems
-
-<table>
-  <tr>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white"/><br>Mapbox</td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white"/><br>NASA FIRMS</td>
   </tr>
-</table>
-
-### Quantum Computing
-
-<table>
   <tr>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white"/><br>NASA FIRMS</td>
     <td align="center" width="96"><img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white"/><br>Qiskit</td>
   </tr>
 </table>
