@@ -15,8 +15,6 @@ Building production-grade AI systems across agentic workflows, distributed backe
 <table>
   <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><br>Python</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a><br>C</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a><br>C++</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a><br>PyTorch</td>
