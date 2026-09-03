@@ -17,8 +17,8 @@
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><br>Python</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a><br>C</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a><br>C++</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a><br>React</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a><br>Next.js</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a><br>PyTorch</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a><br>TensorFlow</td>
   </tr>
@@ -36,17 +36,26 @@
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238b949e" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a><br>MongoDB</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a><br>Redis</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /></a><br>Kafka</td>
   </tr>
   <tr>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a><br>Kubernetes</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /></a><br>Terraform</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /></a><br>Prometheus</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /></a><br>Grafana</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a><br>GitHub</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" /></a><br>Selenium</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a><br>Playwright</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a><br>Arduino</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /></a><br>Raspberry Pi</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/qiskit.svg?color=%238b949e" width="48" height="48" alt="Qiskit" /></a><br>Qiskit</td>
   </tr>
 </table>
