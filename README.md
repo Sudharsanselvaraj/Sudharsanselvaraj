@@ -44,7 +44,6 @@
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a><br>Kubernetes</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /></a><br>GCP</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /></a><br>Terraform</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /></a><br>Prometheus</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /></a><br>Grafana</td>
@@ -71,6 +70,8 @@
   <tr>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" /></a><br>Selenium</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a><br>Playwright</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /></a><br>GCP</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /></a><br>Azure</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a><br>Arduino</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /></a><br>Raspberry Pi</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/qiskit.svg?color=%238b949e" width="48" height="48" alt="Qiskit" /></a><br>Qiskit</td>
