@@ -10,7 +10,7 @@
 
 ---
 
-## AI Engineering Stack
+## Technologies I Build With
 
 <table align="center">
   <tr>
