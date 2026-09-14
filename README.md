@@ -124,4 +124,4 @@
 
 ---
 
-[☕ Support my work](https://buymeacoffee.com/sudharsanselvaraj)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/sudharsanselvaraj)
