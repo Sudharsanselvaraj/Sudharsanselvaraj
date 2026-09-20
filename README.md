@@ -23,7 +23,7 @@
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a><br>TensorFlow</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=mcp" width="48" height="48" alt="MCP" /></a><br>MCP</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/bxl:mcp.svg?color=%238b949e" width="48" height="48" alt="MCP" /></a><br>MCP</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /></a><br>NumPy</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /></a><br>Pandas</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /></a><br>Matplotlib</td>
