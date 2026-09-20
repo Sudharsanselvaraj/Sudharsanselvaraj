@@ -76,14 +76,6 @@
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /></a><br>Raspberry Pi</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/coderabbit.svg?color=%238b949e" width="48" height="48" alt="CodeRabbit" /></a><br>CodeRabbit</td>
   </tr>
-  <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%238b949e" width="48" height="48" alt="Anthropic" /></a><br>Anthropic</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/langgraph.svg?color=%238b949e" width="48" height="48" alt="LangGraph" /></a><br>LangGraph</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/ollama.svg?color=%238b949e" width="48" height="48" alt="Ollama" /></a><br>Ollama</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/vllm.svg?color=%238b949e" width="48" height="48" alt="vLLM" /></a><br>vLLM</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/apachespark.svg?color=%238b949e" width="48" height="48" alt="Apache Spark" /></a><br>Apache Spark</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/opentelemetry.svg?color=%238b949e" width="48" height="48" alt="OpenTelemetry" /></a><br>OpenTelemetry</td>
-  </tr>
 </table>
 
 ---
