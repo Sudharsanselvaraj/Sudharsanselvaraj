@@ -74,7 +74,7 @@
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /></a><br>Azure</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a><br>Arduino</td>
     <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /></a><br>Raspberry Pi</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/qiskit.svg?color=%238b949e" width="48" height="48" alt="Qiskit" /></a><br>Qiskit</td>
+    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/coderabbit.svg?color=%238b949e" width="48" height="48" alt="CodeRabbit" /></a><br>CodeRabbit</td>
   </tr>
 </table>
 
