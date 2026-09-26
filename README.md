@@ -80,35 +80,6 @@
 
 ---
 
-## Achievements & Events
-
-| Event | Outcome | Prize / Recognition |
-|-------|---------|---------------------|
-| **PSB CyberShield National Hackathon 2026** | Top 9 / 2,986 teams — Grand Finale at IIT Hyderabad | Bank of India · IIT Hyderabad · Indian Ministry of Finance |
-| **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
-| **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
-| **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate of Recognition |
-| **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
-| **ICETETM'25 – International Conference** | Research Paper Presented | International |
-| **INNOV FEST '24 – SRM IST** | Project Deployment | Institutional |
-| **HackXtreme 2025** | 24-Hour Hackathon | Participation |
-
----
-
-## Experience
-
-| Role | Company | Period | Type |
-|------|---------|--------|------|
-| **AI Engineer** | Hooman Digital, Kolkata | Jun 2026 – Present | Fulltime |
-| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Apr 2026 | Remote |
-| **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
-| **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
-| **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
-
----
-
 ## GitHub Statistics
 
 <p align="center">
