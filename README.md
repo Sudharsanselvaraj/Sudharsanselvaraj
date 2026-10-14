@@ -100,7 +100,7 @@
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-|**AI/LLM Engineer |Times Media SDN BHD, Malaysia | Oct 2026 - Present | Remote |
+|**AI/LLM Engineer** |Times Media SDN BHD, Malaysia | Oct 2026 - Present | Remote |
 | **AI Engineer** | Hooman Digital, Kolkata | Jun 2026 – Sep 2026 | Fulltime |
 | **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Apr 2026 | Remote |
 | **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
