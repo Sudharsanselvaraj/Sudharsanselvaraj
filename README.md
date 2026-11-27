@@ -14,67 +14,224 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><br>Python</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a><br>React</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a><br>Next.js</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a><br>PyTorch</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a><br>TensorFlow</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="48" height="48" alt="Next.js" />
+      </picture><br>Next.js
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000" />
+        <img src="https://cdn.simpleicons.org/express/ffffff" width="48" height="48" alt="Express" />
+      </picture><br>Express
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/bxl:mcp.svg?color=%238b949e" width="48" height="48" alt="MCP" /></a><br>MCP</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /></a><br>NumPy</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /></a><br>Pandas</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /></a><br>Matplotlib</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /></a><br>Jupyter</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /></a><br>OpenCV</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%238b949e" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Bash" /><br>Bash
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/dark.svg" width="48" height="48" alt="OpenAI" />
+      </picture><br>OpenAI
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" width="48" height="48" alt="Hugging Face" /><br>Hugging Face
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" /><br>LangChain
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" alt="LangGraph" /><br>LangGraph
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/huggingface.svg?color=%238b949e" width="48" height="48" alt="HuggingFace" /></a><br>HuggingFace</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/langchain.svg?color=%238b949e" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a><br>MongoDB</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></a><br>Redis</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /></a><br>Kafka</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/000000" />
+        <img src="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" width="48" height="48" alt="MCP" />
+      </picture><br>MCP
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vllm-color.svg" width="48" height="48" alt="vLLM" /><br>vLLM
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/ffffff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/000000" />
+        <img src="https://cdn.simpleicons.org/ollama/ffffff" width="48" height="48" alt="Ollama" />
+      </picture><br>Ollama
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="NVIDIA CUDA" /><br>NVIDIA CUDA
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jinja/E04848" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/jinja/B41717" />
+        <img src="https://cdn.simpleicons.org/jinja/E04848" width="48" height="48" alt="Jinja2" />
+      </picture><br>Jinja2
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></a><br>Kubernetes</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /></a><br>Terraform</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /></a><br>Prometheus</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /></a><br>Grafana</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /><br>Matplotlib
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" /><br>OpenCV
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br>Jupyter
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br>Redis
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" height="48" alt="Qdrant" /><br>Qdrant
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a><br>GitHub</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /></a><br>GitHub Actions</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /></a><br>GitLab</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /></a><br>Jenkins</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /></a><br>Ansible</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /></a><br>Bash</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/ffffff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apachekafka/231F20" />
+        <img src="https://cdn.simpleicons.org/apachekafka/ffffff" width="48" height="48" alt="Apache Kafka" />
+      </picture><br>Apache Kafka
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="48" height="48" alt="Elasticsearch" /><br>Elasticsearch
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" /><br>GraphQL
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" /><br>Nginx
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" width="52" alt="AWS" />
+      </picture><br>AWS
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a><br>Node.js</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a><br>Express</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a><br>GraphQL</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /></a><br>Nginx</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" /></a><br>RabbitMQ</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" /></a><br>Elasticsearch</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /></a><br>Cloudflare</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud Platform" /><br>Google Cloud
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48" height="48" alt="Microsoft Azure" /><br>Microsoft Azure
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/runpod.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/runpod-light.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/runpod.svg" width="48" height="48" alt="RunPod" />
+      </picture><br>RunPod
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" /><br>Terraform
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" /></a><br>Selenium</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /></a><br>Playwright</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /></a><br>GCP</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /></a><br>Azure</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /></a><br>Arduino</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /></a><br>Raspberry Pi</td>
-    <td align="center" width="96"><a href="#ai-engineering-stack"><img src="https://api.iconify.design/simple-icons/coderabbit.svg?color=%238b949e" width="48" height="48" alt="CodeRabbit" /></a><br>CodeRabbit</td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" /><br>Cloudflare
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" /><br>Raspberry Pi
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" /><br>Arduino
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" /><br>GitLab
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/ansible/EE0000" width="48" height="48" alt="Ansible" /><br>Ansible
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" /><br>Prometheus
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" /><br>Grafana
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" height="48" alt="Selenium" /><br>Selenium
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /><br>Playwright
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.simpleicons.org/coderabbit/FF570A" width="48" height="48" alt="CodeRabbit" /><br>CodeRabbit
+    </td>
+    <td align="center" valign="middle" width="126" height="106">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" /><br>Apache Spark
+    </td>
   </tr>
 </table>
 
@@ -98,14 +255,54 @@
 
 ## Experience
 
-| Role | Company | Period | Type |
-|------|---------|--------|------|
-|**AI/LLM Engineer** |Times Media SDN BHD, Malaysia | Oct 2026 - Present | Remote |
-| **AI Engineer** | Hooman Digital, Kolkata | Jun 2026 – Sep 2026 | Fulltime |
-| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Apr 2026 | Remote |
-| **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
-| **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
-| **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Role</th>
+      <th align="left">Company / Location</th>
+      <th align="left">Duration</th>
+      <th align="left">Work Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="middle"><strong>AI/LLM Engineer</strong></td>
+      <td align="left" valign="middle">Times Media SDN BHD, Malaysia &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f2-1f1fe.svg" width="16" height="16" align="absmiddle" alt="Malaysia" /></td>
+      <td align="left" valign="middle"><small>&#9679;&nbsp;<strong>Oct&nbsp;2026&nbsp;–&nbsp;Present</strong></small></td>
+      <td align="left" valign="middle"><small>Remote</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>AI Engineer</strong></td>
+      <td align="left" valign="middle">Hooman Digital, Kolkata</td>
+      <td align="left" valign="middle"><small>Jun&nbsp;2026&nbsp;–&nbsp;Sep&nbsp;2026</small></td>
+      <td align="left" valign="middle"><small>Full&#8209;time</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>ML Engineer Intern</strong></td>
+      <td align="left" valign="middle">ALKF, Hong Kong &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ed-1f1f0.svg" width="16" height="16" align="absmiddle" alt="Hong Kong" /></td>
+      <td align="left" valign="middle"><small>Jan&nbsp;2026&nbsp;–&nbsp;Apr&nbsp;2026</small></td>
+      <td align="left" valign="middle"><small>Remote</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Quantum Computation Intern</strong></td>
+      <td align="left" valign="middle">NIT Trichy</td>
+      <td align="left" valign="middle"><small>Jun&nbsp;2025&nbsp;–&nbsp;Jul&nbsp;2025</small></td>
+      <td align="left" valign="middle"><small>On&#8209;site</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Robotics Software Engineer</strong></td>
+      <td align="left" valign="middle">Persist Ventures, San Francisco &nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="16" height="16" align="absmiddle" alt="United States" /></td>
+      <td align="left" valign="middle"><small>Dec&nbsp;2024&nbsp;–&nbsp;Feb&nbsp;2025</small></td>
+      <td align="left" valign="middle"><small>Remote</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Data Analyst</strong></td>
+      <td align="left" valign="middle">Indika AI, Bengaluru</td>
+      <td align="left" valign="middle"><small>Jul&nbsp;2024&nbsp;–&nbsp;Sep&nbsp;2024</small></td>
+      <td align="left" valign="middle"><small>Remote</small></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
