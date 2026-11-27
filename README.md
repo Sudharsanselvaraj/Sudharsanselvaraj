@@ -359,14 +359,15 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="495"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="688" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="250"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudharsanselvaraj&theme=github_dark&utcOffset=5.5&animation=load" width="250"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="250"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="340" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudharsanselvaraj&theme=github_dark&utcOffset=5.5&animation=load" width="340" alt="Productive Time"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="340" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="340" alt="Top Languages by Commit"/>
 </p>
 
 ---
