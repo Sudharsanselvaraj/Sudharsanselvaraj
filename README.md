@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <strong>3x International Internship</strong> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f2-1f1fe.svg" width="16" height="16" align="absmiddle" alt="Malaysia" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ed-1f1f0.svg" width="16" height="16" align="absmiddle" alt="Hong Kong" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="16" height="16" align="absmiddle" alt="United States" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/main/game.gif" width="800"/>
 </p>
 
