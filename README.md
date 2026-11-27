@@ -375,5 +375,7 @@
   <a href="https://github.com/sponsors/Sudharsanselvaraj"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
   &nbsp;
   <a href="https://buymeacoffee.com/sudharsanselvaraj"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+  &nbsp;
+  <a href="https://buymeachai.in/sudharsan97511"><img src="https://img.shields.io/badge/Buy_Me_a_Chai-D97706?style=flat&logo=coffeescript&logoColor=white" alt="Buy Me a Chai" /></a>
 </p>
 
