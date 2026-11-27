@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/main/game.gif" width="800"/>
 </p>
 
----
+<br>
 
-## Technologies I Build With
+### Technologies I Build With
 
 <table align="center">
   <tr>
@@ -235,9 +235,9 @@
   </tr>
 </table>
 
----
+<br>
 
-## Achievements & Events
+### Achievements & Events
 
 <table align="center">
   <thead>
@@ -301,9 +301,9 @@
   </tbody>
 </table>
 
----
+<br>
 
-## Experience
+### Experience
 
 <table align="center">
   <thead>
@@ -354,9 +354,9 @@
   </tbody>
 </table>
 
----
+<br>
 
-## GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="528" alt="Profile Details"/>
@@ -368,7 +368,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudharsanselvaraj&theme=github_dark&animation=load" width="260" alt="Top Languages by Repo"/>
 </p>
 
----
+<br>
 
 <p align="center">
   <a href="https://github.com/sponsors/Sudharsanselvaraj"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
