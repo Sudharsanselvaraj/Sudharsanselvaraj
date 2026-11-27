@@ -1,14 +1,7 @@
 <h1 align="center">Sudharsan S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Agentic+AI+Engineer;ML+Engineer;Autonomous+Systems+Engineer"/>
-</p>
-
-<p align="center">
-  <strong>3x International Internship</strong> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f2-1f1fe.svg" width="16" height="16" align="absmiddle" alt="Malaysia" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ed-1f1f0.svg" width="16" height="16" align="absmiddle" alt="Hong Kong" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="16" height="16" align="absmiddle" alt="United States" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Agentic+AI+Engineer;ML+Engineer;Autonomous+Systems+Engineer;3x+International+Internship+%F0%9F%87%B2%F0%9F%87%BE+%F0%9F%87%AD%F0%9F%87%B0+%F0%9F%87%BA%F0%9F%87%B8"/>
 </p>
 
 <p align="center">
