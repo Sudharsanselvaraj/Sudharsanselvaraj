@@ -371,5 +371,9 @@
 
 ---
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sudharsanselvaraj)
+<p align="center">
+  <a href="https://github.com/sponsors/Sudharsanselvaraj"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/sudharsanselvaraj"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+</p>
 
