@@ -303,42 +303,6 @@
 
 ---
 
-## Research & Publications
-
-<table align="center" width="760">
-  <thead>
-    <tr>
-      <th align="left" colspan="2">
-        Tri-Net: Unified Deep Learning for Skin Lesion and Symptom-Based Monkeypox Detection
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" colspan="2">
-        <small><strong>S. Sudharsan</strong> <code>FIRST AUTHOR</code>, Prabu Selvam, Nirmala Veeramani, B. Kiran Kumar, Nikola Ivković and Korhan Cengiz.</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" colspan="2">
-        <small>Tri-Net integrates deep learning-based skin lesion analysis with symptom-based prediction for unified monkeypox detection.</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="50%"><small><strong>Journal:</strong> Scientific Reports · Springer Nature</small></td>
-      <td align="left" width="50%"><small><strong>Published:</strong> 13 July 2026</small></td>
-    </tr>
-    <tr>
-      <td align="left" width="50%"><small><strong>DOI:</strong> <code>10.1038/s41598-026-61490-x</code></small></td>
-      <td align="left" width="50%">
-        <small><strong><a href="https://www.nature.com/articles/s41598-026-61490-x">Read Publication ↗</a></strong> &nbsp;·&nbsp; <a href="https://github.com/Sudharsanselvaraj/Synergistic-Deep-Learning-for-Monkeypox-Diagnosis">View Implementation</a></small>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ## Experience
 
 <table align="center">
