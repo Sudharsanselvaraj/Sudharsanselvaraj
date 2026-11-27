@@ -1,7 +1,7 @@
 <h1 align="center">Sudharsan S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Agentic+AI+Engineer;LLM+Systems+Engineer;AI+Infrastructure+Engineer;Machine+Learning+Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Agentic+AI+Engineer;LLM+Systems+Engineer;AI+Infrastructure+Engineer;Machine+Learning+Engineer;3x+International+Internship+%F0%9F%87%B2%F0%9F%87%BE+%F0%9F%87%AD%F0%9F%87%B0+%F0%9F%87%BA%F0%9F%87%B8"/>
 </p>
 
 <p align="center">
