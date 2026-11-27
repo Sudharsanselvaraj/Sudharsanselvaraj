@@ -236,20 +236,106 @@
 </table>
 
 ---
+
 ## Achievements & Events
 
-| Event | Outcome | Prize / Recognition |
-|-------|---------|---------------------|
-| **PSB CyberShield National Hackathon 2026** | Top 9 / 2,986 teams — Grand Finale at IIT Hyderabad | Bank of India · IIT Hyderabad · Indian Ministry of Finance |
-| **Smart India Hackathon 2025** | National Winner — first SRMIST Trichy team in 5 years | ₹1,50,000 |
-| **Amazon ML Challenge 2025** | AIR 62 / 6,223 teams | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | Top 5 / 981 teams — National Finalist | Internship Offer |
-| **DigiGreen National Hackathon** | 4th Place / 556+ teams | Certificate of Recognition |
-| **ProtoThon 1.0 – SRM IST** | Winner | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | Winner | ₹5,000 |
-| **ICETETM'25 – International Conference** | Research Paper Presented | International |
-| **INNOV FEST '24 – SRM IST** | Project Deployment | Institutional |
-| **HackXtreme 2025** | 24-Hour Hackathon | Participation |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Event</th>
+      <th align="left">Achievement</th>
+      <th align="left">Recognition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="middle"><strong>PSB CyberShield National Hackathon 2026</strong></td>
+      <td align="left" valign="middle"><strong>Top 9 / 2,986 teams</strong> <small>— Grand Finale at IIT Hyderabad</small></td>
+      <td align="left" valign="middle"><small>Bank of India · IIT Hyderabad · Indian Ministry of Finance</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Smart India Hackathon 2025</strong></td>
+      <td align="left" valign="middle"><strong>National Winner</strong> <small>— first SRMIST Trichy team in 5 years</small></td>
+      <td align="left" valign="middle"><strong>₹1,50,000</strong></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Amazon ML Challenge 2025</strong></td>
+      <td align="left" valign="middle"><strong>AIR 62 / 6,223 teams</strong></td>
+      <td align="left" valign="middle"><small>All-India Rank</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Edu Tantr 12-Hour Hackathon</strong></td>
+      <td align="left" valign="middle"><strong>Top 5 / 981 teams</strong> <small>— National Finalist</small></td>
+      <td align="left" valign="middle"><small>Internship Offer</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>DigiGreen National Hackathon</strong></td>
+      <td align="left" valign="middle"><strong>4th Place</strong> <small>/ 556+ teams</small></td>
+      <td align="left" valign="middle"><small>Certificate of Recognition</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>ProtoThon 1.0 – SRM IST</strong></td>
+      <td align="left" valign="middle"><strong>Winner</strong></td>
+      <td align="left" valign="middle"><strong>₹5,000</strong></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Algo Vault – YUVA Techfest</strong></td>
+      <td align="left" valign="middle"><strong>Winner</strong></td>
+      <td align="left" valign="middle"><strong>₹5,000</strong></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>ICETETM'25 – International Conference</strong></td>
+      <td align="left" valign="middle">Research Paper Presented</td>
+      <td align="left" valign="middle"><small>International</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>INNOV FEST '24 – SRM IST</strong></td>
+      <td align="left" valign="middle">Project Deployment</td>
+      <td align="left" valign="middle"><small>Institutional</small></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>HackXtreme 2025</strong></td>
+      <td align="left" valign="middle"><small>24-Hour Hackathon</small></td>
+      <td align="left" valign="middle"><small>Participation</small></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## Research & Publications
+
+<table align="center" width="760">
+  <thead>
+    <tr>
+      <th align="left" colspan="2">
+        Tri-Net: Unified Deep Learning for Skin Lesion and Symptom-Based Monkeypox Detection
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" colspan="2">
+        <small><strong>S. Sudharsan</strong> <code>FIRST AUTHOR</code>, Prabu Selvam, Nirmala Veeramani, B. Kiran Kumar, Nikola Ivković and Korhan Cengiz.</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" colspan="2">
+        <small>Tri-Net integrates deep learning-based skin lesion analysis with symptom-based prediction for unified monkeypox detection.</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="50%"><small><strong>Journal:</strong> Scientific Reports · Springer Nature</small></td>
+      <td align="left" width="50%"><small><strong>Published:</strong> 13 July 2026</small></td>
+    </tr>
+    <tr>
+      <td align="left" width="50%"><small><strong>DOI:</strong> <code>10.1038/s41598-026-61490-x</code></small></td>
+      <td align="left" width="50%">
+        <small><strong><a href="https://www.nature.com/articles/s41598-026-61490-x">Read Publication ↗</a></strong> &nbsp;·&nbsp; <a href="https://github.com/Sudharsanselvaraj/Synergistic-Deep-Learning-for-Monkeypox-Diagnosis">View Implementation</a></small>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
